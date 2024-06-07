@@ -1,0 +1,89 @@
+@font-face {
+  font-family: "Platform";
+  src: url(../fonts/platform/Platform-Thin.woff2) format(woff2),
+    url(../fonts/platform/Platform-Thin.woff) format(woff),
+    url(../fonts/platform/Platform-Thin.ttf) format(truetype);
+  font-weight: 100;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Platform";
+  src: url(../fonts/platform/Platform-ThinItalic.woff2) format(woff2),
+    url(../fonts/platform/Platform-ThinItalic.woff) format(woff),
+    url(../fonts/platform/Platform-ThinItalic.ttf) format(truetype);
+  font-weight: 100;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Platform";
+  src: url(../fonts/platform/Platform-Light.woff2) format(woff2),
+    url(../fonts/platform/Platform-Light.woff) format(woff),
+    url(../fonts/platform/Platform-Light.ttf) format(truetype);
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Platform";
+  src: url(../fonts/platform/Platform-LightItalic.woff2) format(woff2),
+    url(../fonts/platform/Platform-LightItalic.woff) format(woff),
+    url(../fonts/platform/Platform-LightItalic.ttf) format(truetype);
+  font-weight: 300;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Platform";
+  src: url(../fonts/platform/Platform-Regular.woff2) format(woff2),
+    url(../fonts/platform/Platform-Regular.woff) format(woff),
+    url(../fonts/platform/Platform-Regular.ttf) format(truetype);
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Platform";
+  src: url(../fonts/platform/Platform-Italic.woff2) format(woff2),
+    url(../fonts/platform/Platform-Italic.woff) format(woff),
+    url(../fonts/platform/Platform-Italic.ttf) format(truetype);
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Platform";
+  src: url(../fonts/platform/Platform-Medium.woff2) format(woff2),
+    url(../fonts/platform/Platform-Medium.woff) format(woff),
+    url(../fonts/platform/Platform-Medium.ttf) format(truetype);
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Platform";
+  src: url(../fonts/platform/Platform-MediumItalic.woff2) format(woff2),
+    url(../fonts/platform/Platform-MediumItalic.woff) format(woff),
+    url(../fonts/platform/Platform-MediumItalic.ttf) format(truetype);
+  font-weight: 500;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Platform";
+  src: url(../fonts/platform/Platform-Bold.woff2) format(woff2),
+    url(../fonts/platform/Platform-Bold.woff) format(woff),
+    url(../fonts/platform/Platform-Bold.ttf) format(truetype);
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Platform";
+  src: url(../fonts/platform/Platform-BoldItalic.woff2) format(woff2),
+    url(../fonts/platform/Platform-BoldItalic.woff) format(woff),
+    url(../fonts/platform/Platform-BoldItalic.ttf) format(truetype);
+  font-weight: 700;
+  font-style: italic;
+}

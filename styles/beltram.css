@@ -1,0 +1,108 @@
+/* Beltram */
+@font-face {
+  font-family: "Beltram";
+  src: url(../fonts/beltram/Beltram-Light.woff2) format(woff2),
+    url(../fonts/beltram/Beltram-Light.woff) format(woff),
+    url(../fonts/beltram/Beltram-Light.ttf) format(truetype);
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Beltram";
+  src: url(../fonts/beltram/Beltram-LightItalic.woff2) format(woff2),
+    url(../fonts/beltram/Beltram-LightItalic.woff) format(woff),
+    url(../fonts/beltram/Beltram-LightItalic.ttf) format(truetype);
+  font-weight: 300;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Beltram";
+  src: url(../fonts/beltram/Beltram-Regular.woff2) format(woff2),
+    url(../fonts/beltram/Beltram-Regular.woff) format(woff),
+    url(../fonts/beltram/Beltram-Regular.ttf) format(truetype);
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Beltram";
+  src: url(../fonts/beltram/Beltram-Italic.woff2) format(woff2),
+    url(../fonts/beltram/Beltram-Italic.woff) format(woff),
+    url(../fonts/beltram/Beltram-Italic.ttf) format(truetype);
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Beltram";
+  src: url(../fonts/beltram/Beltram-Medium.woff2) format(woff2),
+    url(../fonts/beltram/Beltram-Medium.woff) format(woff),
+    url(../fonts/beltram/Beltram-Medium.ttf) format(truetype);
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Beltram";
+  src: url(../fonts/beltram/Beltram-MediumItalic.woff2) format(woff2),
+    url(../fonts/beltram/Beltram-MediumItalic.woff) format(woff),
+    url(../fonts/beltram/Beltram-MediumItalic.ttf) format(truetype);
+  font-weight: 500;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Beltram";
+  src: url(../fonts/beltram/Beltram-SemiBold.woff2) format(woff2),
+    url(../fonts/beltram/Beltram-SemiBold.woff) format(woff),
+    url(../fonts/beltram/Beltram-SemiBold.ttf) format(truetype);
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Beltram";
+  src: url(../fonts/beltram/Beltram-SemiBoldItalic.woff2) format(woff2),
+    url(../fonts/beltram/Beltram-SemiBoldItalic.woff) format(woff),
+    url(../fonts/beltram/Beltram-SemiBoldItalic.ttf) format(truetype);
+  font-weight: 600;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Beltram";
+  src: url(../fonts/beltram/Beltram-Bold.woff2) format(woff2),
+    url(../fonts/beltram/Beltram-Bold.woff) format(woff),
+    url(../fonts/beltram/Beltram-Bold.ttf) format(truetype);
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Beltram";
+  src: url(../fonts/beltram/Beltram-BoldItalic.woff2) format(woff2),
+    url(../fonts/beltram/Beltram-BoldItalic.woff) format(woff),
+    url(../fonts/beltram/Beltram-BoldItalic.ttf) format(truetype);
+  font-weight: 700;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Beltram";
+  src: url(../fonts/beltram/Beltram-Black.woff2) format(woff2),
+    url(../fonts/beltram/Beltram-Black.woff) format(woff),
+    url(../fonts/beltram/Beltram-Black.ttf) format(truetype);
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Beltram";
+  src: url(../fonts/beltram/Beltram-BlackItalic.woff2) format(woff2),
+    url(../fonts/beltram/Beltram-BlackItalic.woff) format(woff),
+    url(../fonts/beltram/Beltram-BlackItalic.ttf) format(truetype);
+  font-weight: 900;
+  font-style: italic;
+}
