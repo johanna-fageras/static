@@ -11,3 +11,5 @@ https://cdn.jsdelivr.net/gh/{username}/{repo}/{subfolder}/{filename}
   * [Decima](https://github.com/johanna-fageras/static/blob/main/styles/decima.css)
   * [Platform](https://github.com/johanna-fageras/static/blob/main/styles/platform.css) 
 ### Icons
+### Styles
+### Scripts
