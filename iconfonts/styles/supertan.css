@@ -1,0 +1,421 @@
+/*--------------------------------
+
+Supertan icon font
+Generated using nucleoapp.com
+
+-------------------------------- */
+
+@font-face {
+  font-family: 'Supertan';
+  src: url('../fonts/supertan/Supertan.eot');
+  src: url('../fonts/supertan/Supertan.eot') format('embedded-opentype'),
+    url('../fonts/supertan/Supertan.woff2') format('woff2'),
+    url('../fonts/supertan/Supertan.woff') format('woff'),
+    url('../fonts/supertan/Supertan.ttf') format('truetype'),
+    url('../fonts/supertan/Supertan.svg') format('svg');
+}
+
+/* base class */
+.icon {
+  display: inline-block;
+  font: normal normal normal 1em/1 'Supertan';
+  color: inherit;
+  flex-shrink: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* size examples - relative units */
+.icon-sm {
+  font-size: 0.8em;
+}
+
+.icon-lg {
+  font-size: 1.2em;
+}
+
+/* size examples - absolute units */
+.icon-16 {
+  font-size: 16px;
+}
+
+.icon-32 {
+  font-size: 32px;
+}
+
+/* rotate the icon infinitely */
+.icon-is-spinning {
+  animation: icon-spin 1s infinite linear;
+}
+
+@keyframes icon-spin {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+/* transform */
+.icon-rotate-90 {
+  transform: rotate(90deg);
+}
+
+.icon-rotate-180 {
+  transform: rotate(180deg);
+}
+
+.icon-rotate-270 {
+  transform: rotate(270deg);
+}
+
+.icon-flip-y {
+  transform: scaleY(-1);
+}
+
+.icon-flip-x {
+  transform: scaleX(-1);
+}
+
+/* icons */
+.sti-user::before {
+  content: "\ea02";
+}
+
+.sti-shopping-cart::before {
+  content: "\ea03";
+}
+
+.sti-bag::before {
+  content: "\ea04";
+}
+
+.sti-search-alt-2::before {
+  content: "\ea05";
+}
+
+.sti-search-alt-1::before {
+  content: "\ea06";
+}
+
+.sti-activity-pulse-alt::before {
+  content: "\ea07";
+}
+
+.sti-activity-pulse::before {
+  content: "\ea08";
+}
+
+.sti-receipt::before {
+  content: "\ea09";
+}
+
+.sti-to-do-list::before {
+  content: "\ea0a";
+}
+
+.sti-list::before {
+  content: "\ea0b";
+}
+
+.sti-download::before {
+  content: "\ea0c";
+}
+
+.sti-download-alt::before {
+  content: "\ea0d";
+}
+
+.sti-arrow-down-circle::before {
+  content: "\ea0e";
+}
+
+.sti-map-pointer::before {
+  content: "\ea0f";
+}
+
+.sti-map::before {
+  content: "\ea10";
+}
+
+.sti-house::before {
+  content: "\ea11";
+}
+
+.sti-credit-card::before {
+  content: "\ea12";
+}
+
+.sti-money-bag::before {
+  content: "\ea13";
+}
+
+.sti-wallet::before {
+  content: "\ea14";
+}
+
+.sti-settings::before {
+  content: "\ea15";
+}
+
+.sti-settings-gear::before {
+  content: "\ea16";
+}
+
+.sti-log-out::before {
+  content: "\ea17";
+}
+
+.sti-log-out-alt::before {
+  content: "\ea18";
+}
+
+.sti-log-in-alt::before {
+  content: "\ea19";
+}
+
+.sti-phone-simple::before {
+  content: "\ea1a";
+}
+
+.sti-phone-loud::before {
+  content: "\ea1b";
+}
+
+.sti-globe::before {
+  content: "\ea1c";
+}
+
+.sti-mail::before {
+  content: "\ea1d";
+}
+
+.sti-mail-open::before {
+  content: "\ea1e";
+}
+
+.sti-newspaper::before {
+  content: "\ea1f";
+}
+
+.sti-discount::before {
+  content: "\ea20";
+}
+
+.sti-tag::before {
+  content: "\ea21";
+}
+
+.sti-movie-ticket::before {
+  content: "\ea22";
+}
+
+.sti-star::before {
+  content: "\ea23";
+}
+
+.sti-facebook::before {
+  content: "\ea24";
+}
+
+.sti-twitter-X-new-logo::before {
+  content: "\ea25";
+}
+
+.sti-twitter::before {
+  content: "\ea26";
+}
+
+.sti-instagram::before {
+  content: "\ea27";
+}
+
+.sti-tiktok::before {
+  content: "\ea28";
+}
+
+.sti-pinterest::before {
+  content: "\ea29";
+}
+
+.sti-shop::before {
+  content: "\ea2a";
+}
+
+.sti-text-file::before {
+  content: "\ea2b";
+}
+
+.sti-telephone::before {
+  content: "\ea2c";
+}
+
+.sti-alt::before {
+  content: "\ea2d";
+}
+
+.sti-clock::before {
+  content: "\ea2e";
+}
+
+.sti-three-sliders::before {
+  content: "\ea2f";
+}
+
+.sti-Grid-even::before {
+  content: "\ea30";
+}
+
+.sti-open-book::before {
+  content: "\ea31";
+}
+
+.sti-syringe::before {
+  content: "\ea32";
+}
+
+.sti-capsule-pill::before {
+  content: "\ea33";
+}
+
+.sti-invoice::before {
+  content: "\ea34";
+}
+
+.sti-dollar-bill::before {
+  content: "\ea35";
+}
+
+.sti-bank::before {
+  content: "\ea36";
+}
+
+.sti-legal-document::before {
+  content: "\ea37";
+}
+
+.sti-lock-01::before {
+  content: "\ea38";
+}
+
+.sti-lock-02::before {
+  content: "\ea39";
+}
+
+.sti-lock-unlocked-01::before {
+  content: "\ea3a";
+}
+
+.sti-lock-unlocked-02::before {
+  content: "\ea3b";
+}
+
+.sti-lock-05::before {
+  content: "\ea3c";
+}
+
+.sti-lock-unlocked-04::before {
+  content: "\ea3d";
+}
+
+.sti-lock-03::before {
+  content: "\ea3e";
+}
+
+.sti-lock-unlocked-03::before {
+  content: "\ea3f";
+}
+
+.sti-shield-tick::before {
+  content: "\ea40";
+}
+
+.sti-shield-01::before {
+  content: "\ea41";
+}
+
+.sti-key-01::before {
+  content: "\ea42";
+}
+
+.sti-key-02::before {
+  content: "\ea43";
+}
+
+.sti-shield-check::before {
+  content: "\ea44";
+}
+
+.sti-lock-keyhole-circle::before {
+  content: "\ea45";
+}
+
+.sti-lock-keyhole-square::before {
+  content: "\ea46";
+}
+
+.sti-trophy::before {
+  content: "\ea47";
+}
+
+.sti-cargo-truck::before {
+  content: "\ea48";
+}
+
+.sti-cruise-ship::before {
+  content: "\ea49";
+}
+
+.sti-ferry::before {
+  content: "\ea4a";
+}
+
+.sti-speedometer::before {
+  content: "\ea4b";
+}
+
+.sti-zap::before {
+  content: "\ea4c";
+}
+
+.sti-thumbs-up::before {
+  content: "\ea4d";
+}
+
+.sti-thumbs-down::before {
+  content: "\ea4e";
+}
+
+.sti-pin-left::before {
+  content: "\ea4f";
+}
+
+.sti-import::before {
+  content: "\ea50";
+}
+
+.sti-funnel::before {
+  content: "\ea51";
+}
+
+.sti-document::before {
+  content: "\ea52";
+}
+
+.sti-check-badge::before {
+  content: "\ea53";
+}
+
+.sti-bookmark-alt::before {
+  content: "\ea54";
+}
+
+.sti-diamond::before {
+  content: "\ea55";
+}
+
+.sti-gift::before {
+  content: "\ea56";
+}
