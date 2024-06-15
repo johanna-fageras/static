@@ -9,7 +9,8 @@ https://cdn.jsdelivr.net/gh/{username}/{repo}/{subfolder}/{filename}
 ### Fonts
   * [Beltram](https://github.com/johanna-fageras/static/blob/main/styles/beltram.css) 
   * [Decima](https://github.com/johanna-fageras/static/blob/main/styles/decima.css)
-  * [Platform](https://github.com/johanna-fageras/static/blob/main/styles/platform.css) 
+  * [Platform](https://github.com/johanna-fageras/static/blob/main/styles/platform.css)
+  * [Circular](https://github.com/johanna-fageras/static/blob/main/styles/circular.css)
 ### Icons
 ### Styles
 ### Scripts
