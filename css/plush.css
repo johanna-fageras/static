@@ -1,0 +1,139 @@
+@font-face {
+    font-family: 'Plush';
+    src: url('../fonts/plush/Plush-ExtraLight.woff2') format('woff2'),
+        url('../fonts/plush/Plush-ExtraLight.woff') format('woff'),
+        url('../fonts/plush/Plush-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Plush';
+    src: url('../fonts/plush/Plush-ExtraLightItalic.woff2') format('woff2'),
+        url('../fonts/plush/Plush-ExtraLightItalic.woff') format('woff'),
+        url('../fonts/plush/Plush-ExtraLightItalic.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Plush';
+    src: url('../fonts/plush/Plush-Light.woff2') format('woff2'),
+        url('../fonts/plush/Plush-Light.woff') format('woff'),
+        url('../fonts/plush/Plush-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Plush';
+    src: url('../fonts/plush/Plush-LightItalic.woff2') format('woff2'),
+        url('../fonts/plush/Plush-LightItalic.woff') format('woff'),
+        url('../fonts/plush/Plush-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Plush';
+    src: url('../fonts/plush/Plush-Regular.woff2') format('woff2'),
+        url('../fonts/plush/Plush-Regular.woff') format('woff'),
+        url('../fonts/plush/Plush-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Plush';
+    src: url('../fonts/plush/Plush-RegularItalic.woff2') format('woff2'),
+        url('../fonts/plush/Plush-RegularItalic.woff') format('woff'),
+        url('../fonts/plush/Plush-RegularItalic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Plush';
+    src: url('../fonts/plush/Plush-Medium.woff2') format('woff2'),
+        url('../fonts/plush/Plush-Medium.woff') format('woff'),
+        url('../fonts/plush/Plush-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Plush';
+    src: url('../fonts/plush/Plush-MediumItalic.woff2') format('woff2'),
+        url('../fonts/plush/Plush-MediumItalic.woff') format('woff'),
+        url('../fonts/plush/Plush-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Plush';
+    src: url('../fonts/plush/Plush-Bold.woff2') format('woff2'),
+        url('../fonts/plush/Plush-Bold.woff') format('woff'),
+        url('../fonts/plush/Plush-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Plush';
+    src: url('../fonts/plush/Plush-BoldItalic.woff2') format('woff2'),
+        url('../fonts/plush/Plush-BoldItalic.woff') format('woff'),
+        url('../fonts/plush/Plush-BoldItalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Plush';
+    src: url('../fonts/plush/Plush-ExtraBold.woff2') format('woff2'),
+        url('../fonts/plush/Plush-ExtraBold.woff') format('woff'),
+        url('../fonts/plush/Plush-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Plush';
+    src: url('../fonts/plush/Plush-ExtraBoldItalic.woff2') format('woff2'),
+        url('../fonts/plush/Plush-ExtraBoldItalic.woff') format('woff'),
+        url('../fonts/plush/Plush-ExtraBoldItalic.ttf') format('truetype');
+    font-weight: 800;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Plush';
+    src: url('../fonts/plush/Plush-Black.woff2') format('woff2'),
+        url('../fonts/plush/Plush-Black.woff') format('woff'),
+        url('../fonts/plush/Plush-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Plush';
+    src: url('../fonts/plush/Plush-BlackItalic.woff2') format('woff2'),
+        url('../fonts/plush/Plush-BlackItalic.woff') format('woff'),
+        url('../fonts/plush/Plush-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
