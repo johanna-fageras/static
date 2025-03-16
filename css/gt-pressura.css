@@ -1,0 +1,119 @@
+@font-face {
+  font-family: 'GT Pressura';
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+  src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/gt-pressura/GTPressura-Thin.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/gt-pressura/GTPressura-Thin.woff') format('woff'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/gt-pressura/GTPressura-Thin.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'GT Pressura';
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+  src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/gt-pressura/GTPressura-ThinItalic.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/gt-pressura/GTPressura-ThinItalic.woff') format('woff'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/gt-pressura/GTPressura-ThinItalic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'GT Pressura';
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+  src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/gt-pressura/GTPressura-Light.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/gt-pressura/GTPressura-Light.woff') format('woff'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/gt-pressura/GTPressura-Light.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'GT Pressura';
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+  src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/gt-pressura/GTPressura-LightItalic.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/gt-pressura/GTPressura-LightItalic.woff') format('woff'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/gt-pressura/GTPressura-LightItalic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'GT Pressura';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/gt-pressura/GTPressura-Regular.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/gt-pressura/GTPressura-Regular.woff') format('woff'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/gt-pressura/GTPressura-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'GT Pressura';
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+  src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/gt-pressura/GTPressura-RegularItalic.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/gt-pressura/GTPressura-RegularItalic.woff') format('woff'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/gt-pressura/GTPressura-RegularItalic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'GT Pressura';
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/gt-pressura/GTPressura-Medium.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/gt-pressura/GTPressura-Medium.woff') format('woff'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/gt-pressura/GTPressura-Medium.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'GT Pressura';
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+  src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/gt-pressura/GTPressura-MediumItalic.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/gt-pressura/GTPressura-MediumItalic.woff') format('woff'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/gt-pressura/GTPressura-MediumItalic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'GT Pressura';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/gt-pressura/GTPressura-Bold.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/gt-pressura/GTPressura-Bold.woff') format('woff'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/gt-pressura/GTPressura-Bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'GT Pressura';
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+  src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/gt-pressura/GTPressura-BoldItalic.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/gt-pressura/GTPressura-BoldItalic.woff') format('woff'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/gt-pressura/GTPressura-BoldItalic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'GT Pressura';
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+  src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/gt-pressura/GTPressura-Black.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/gt-pressura/GTPressura-Black.woff') format('woff'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/gt-pressura/GTPressura-Black.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'GT Pressura';
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+  src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/gt-pressura/GTPressura-BlackItalic.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/gt-pressura/GTPressura-BlackItalic.woff') format('woff'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/gt-pressura/GTPressura-BlackItalic.ttf') format('truetype');
+}
