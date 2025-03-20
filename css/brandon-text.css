@@ -1,0 +1,107 @@
+@font-face {
+  font-family: 'Brandon Text';
+  font-style: normal;
+  font-weight: 100;
+  src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/brandon-text/BrandonText-Thin.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/brandon-text/BrandonText-Thin.woff') format('woff'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/brandon-text/BrandonText-Thin.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Brandon Text';
+  font-style: italic;
+  font-weight: 100;
+  src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/brandon-text/BrandonText-ThinItalic.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/brandon-text/BrandonText-ThinItalic.woff') format('woff'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/brandon-text/BrandonText-ThinItalic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Brandon Text';
+  font-style: normal;
+  font-weight: 300;
+  src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/brandon-text/BrandonText-Light.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/brandon-text/BrandonText-Light.woff') format('woff'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/brandon-text/BrandonText-Light.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Brandon Text';
+  font-style: italic;
+  font-weight: 300;
+  src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/brandon-text/BrandonText-LightItalic.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/brandon-text/BrandonText-LightItalic.woff') format('woff'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/brandon-text/BrandonText-LightItalic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Brandon Text';
+  font-style: normal;
+  font-weight: 400;
+  src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/brandon-text/BrandonText-Regular.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/brandon-text/BrandonText-Regular.woff') format('woff'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/brandon-text/BrandonText-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Brandon Text';
+  font-style: italic;
+  font-weight: 400;
+  src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/brandon-text/BrandonText-RegularItalic.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/brandon-text/BrandonText-RegularItalic.woff') format('woff'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/brandon-text/BrandonText-RegularItalic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Brandon Text';
+  font-style: normal;
+  font-weight: 500;
+  src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/brandon-text/BrandonText-Medium.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/brandon-text/BrandonText-Medium.woff') format('woff'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/brandon-text/BrandonText-Medium.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Brandon Text';
+  font-style: italic;
+  font-weight: 500;
+  src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/brandon-text/BrandonText-MediumItalic.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/brandon-text/BrandonText-MediumItalic.woff') format('woff'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/brandon-text/BrandonText-MediumItalic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Brandon Text';
+  font-style: normal;
+  font-weight: 700;
+  src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/brandon-text/BrandonText-Bold.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/brandon-text/BrandonText-Bold.woff') format('woff'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/brandon-text/BrandonText-Bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Brandon Text';
+  font-style: italic;
+  font-weight: 700;
+  src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/brandon-text/BrandonText-BoldItalic.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/brandon-text/BrandonText-BoldItalic.woff') format('woff'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/brandon-text/BrandonText-BoldItalic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Brandon Text';
+  font-style: normal;
+  font-weight: 900;
+  src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/brandon-text/BrandonText-Black.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/brandon-text/BrandonText-Black.woff') format('woff'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/brandon-text/BrandonText-Black.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Brandon Text';
+  font-style: italic;
+  font-weight: 900;
+  src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/brandon-text/BrandonText-BlackItalic.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/brandon-text/BrandonText-BlackItalic.woff') format('woff'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/brandon-text/BrandonText-BlackItalic.ttf') format('truetype');
+}
