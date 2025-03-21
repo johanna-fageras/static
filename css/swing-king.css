@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'Swing King';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/swing-king/SwingKing-Regular.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/swing-king/SwingKing-Regular.woff') format('woff'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/swing-king/SwingKing-Regular.ttf') format('truetype');
+}
