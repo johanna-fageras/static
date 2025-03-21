@@ -1,0 +1,179 @@
+@font-face {
+  font-family: 'CC Hero Sandwich Pro';
+  src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/cc-hero-sandwich-pro/CCHeroSandwichPro-Thin.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/cc-hero-sandwich-pro/CCHeroSandwichPro-Thin.woff') format('woff'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/cc-hero-sandwich-pro/CCHeroSandwichPro-Thin.ttf') format('truetype');
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'CC Hero Sandwich Pro';
+  src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/cc-hero-sandwich-pro/CCHeroSandwichPro-ThinItalic.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/cc-hero-sandwich-pro/CCHeroSandwichPro-ThinItalic.woff') format('woff'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/cc-hero-sandwich-pro/CCHeroSandwichPro-ThinItalic.ttf') format('truetype');
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'CC Hero Sandwich Pro';
+  src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/cc-hero-sandwich-pro/CCHeroSandwichPro-ExtraLight.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/cc-hero-sandwich-pro/CCHeroSandwichPro-ExtraLight.woff') format('woff'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/cc-hero-sandwich-pro/CCHeroSandwichPro-ExtraLight.ttf') format('truetype');
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'CC Hero Sandwich Pro';
+  src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/cc-hero-sandwich-pro/CCHeroSandwichPro-ExtraLightItalic.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/cc-hero-sandwich-pro/CCHeroSandwichPro-ExtraLightItalic.woff') format('woff'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/cc-hero-sandwich-pro/CCHeroSandwichPro-ExtraLightItalic.ttf') format('truetype');
+  font-weight: 200;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'CC Hero Sandwich Pro';
+  src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/cc-hero-sandwich-pro/CCHeroSandwichPro-Light.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/cc-hero-sandwich-pro/CCHeroSandwichPro-Light.woff') format('woff'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/cc-hero-sandwich-pro/CCHeroSandwichPro-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'CC Hero Sandwich Pro';
+  src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/cc-hero-sandwich-pro/CCHeroSandwichPro-LightItalic.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/cc-hero-sandwich-pro/CCHeroSandwichPro-LightItalic.woff') format('woff'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/cc-hero-sandwich-pro/CCHeroSandwichPro-LightItalic.ttf') format('truetype');
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'CC Hero Sandwich Pro';
+  src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/cc-hero-sandwich-pro/CCHeroSandwichPro-Regular.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/cc-hero-sandwich-pro/CCHeroSandwichPro-Regular.woff') format('woff'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/cc-hero-sandwich-pro/CCHeroSandwichPro-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'CC Hero Sandwich Pro';
+  src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/cc-hero-sandwich-pro/CCHeroSandwichPro-RegularItalic.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/cc-hero-sandwich-pro/CCHeroSandwichPro-RegularItalic.woff') format('woff'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/cc-hero-sandwich-pro/CCHeroSandwichPro-RegularItalic.ttf') format('truetype');
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'CC Hero Sandwich Pro';
+  src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/cc-hero-sandwich-pro/CCHeroSandwichPro-Medium.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/cc-hero-sandwich-pro/CCHeroSandwichPro-Medium.woff') format('woff'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/cc-hero-sandwich-pro/CCHeroSandwichPro-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'CC Hero Sandwich Pro';
+  src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/cc-hero-sandwich-pro/CCHeroSandwichPro-MediumItalic.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/cc-hero-sandwich-pro/CCHeroSandwichPro-MediumItalic.woff') format('woff'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/cc-hero-sandwich-pro/CCHeroSandwichPro-MediumItalic.ttf') format('truetype');
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'CC Hero Sandwich Pro';
+  src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/cc-hero-sandwich-pro/CCHeroSandwichPro-SemiBold.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/cc-hero-sandwich-pro/CCHeroSandwichPro-SemiBold.woff') format('woff'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/cc-hero-sandwich-pro/CCHeroSandwichPro-SemiBold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'CC Hero Sandwich Pro';
+  src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/cc-hero-sandwich-pro/CCHeroSandwichPro-SemiBoldItalic.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/cc-hero-sandwich-pro/CCHeroSandwichPro-SemiBoldItalic.woff') format('woff'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/cc-hero-sandwich-pro/CCHeroSandwichPro-SemiBoldItalic.ttf') format('truetype');
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'CC Hero Sandwich Pro';
+  src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/cc-hero-sandwich-pro/CCHeroSandwichPro-Bold.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/cc-hero-sandwich-pro/CCHeroSandwichPro-Bold.woff') format('woff'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/cc-hero-sandwich-pro/CCHeroSandwichPro-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'CC Hero Sandwich Pro';
+  src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/cc-hero-sandwich-pro/CCHeroSandwichPro-BoldItalic.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/cc-hero-sandwich-pro/CCHeroSandwichPro-BoldItalic.woff') format('woff'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/cc-hero-sandwich-pro/CCHeroSandwichPro-BoldItalic.ttf') format('truetype');
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'CC Hero Sandwich Pro';
+  src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/cc-hero-sandwich-pro/CCHeroSandwichPro-ExtraBold.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/cc-hero-sandwich-pro/CCHeroSandwichPro-ExtraBold.woff') format('woff'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/cc-hero-sandwich-pro/CCHeroSandwichPro-ExtraBold.ttf') format('truetype');
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'CC Hero Sandwich Pro';
+  src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/cc-hero-sandwich-pro/CCHeroSandwichPro-ExtraBoldItalic.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/cc-hero-sandwich-pro/CCHeroSandwichPro-ExtraBoldItalic.woff') format('woff'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/cc-hero-sandwich-pro/CCHeroSandwichPro-ExtraBoldItalic.ttf') format('truetype');
+  font-weight: 800;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'CC Hero Sandwich Pro';
+  src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/cc-hero-sandwich-pro/CCHeroSandwichPro-Heavy.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/cc-hero-sandwich-pro/CCHeroSandwichPro-Heavy.woff') format('woff'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/cc-hero-sandwich-pro/CCHeroSandwichPro-Heavy.ttf') format('truetype');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'CC Hero Sandwich Pro';
+  src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/cc-hero-sandwich-pro/CCHeroSandwichPro-HeavyItalic.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/cc-hero-sandwich-pro/CCHeroSandwichPro-HeavyItalic.woff') format('woff'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/cc-hero-sandwich-pro/CCHeroSandwichPro-HeavyItalic.ttf') format('truetype');
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
