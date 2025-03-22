@@ -1,0 +1,159 @@
+@font-face {
+    font-family: 'MNKY Banana Grotesk';
+    src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/mnky-banana-grotesk/MNKYBananaGrotesk-Thin.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/mnky-banana-grotesk/MNKYBananaGrotesk-Thin.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/mnky-banana-grotesk/MNKYBananaGrotesk-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Banana Grotesk';
+    src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/mnky-banana-grotesk/MNKYBananaGrotesk-ThinItalic.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/mnky-banana-grotesk/MNKYBananaGrotesk-ThinItalic.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/mnky-banana-grotesk/MNKYBananaGrotesk-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Banana Grotesk';
+    src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/mnky-banana-grotesk/MNKYBananaGrotesk-ExtraLight.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/mnky-banana-grotesk/MNKYBananaGrotesk-ExtraLight.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/mnky-banana-grotesk/MNKYBananaGrotesk-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Banana Grotesk';
+    src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/mnky-banana-grotesk/MNKYBananaGrotesk-ExtLtIta.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/mnky-banana-grotesk/MNKYBananaGrotesk-ExtLtIta.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/mnky-banana-grotesk/MNKYBananaGrotesk-ExtLtIta.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Banana Grotesk';
+    src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/mnky-banana-grotesk/MNKYBananaGrotesk-Light.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/mnky-banana-grotesk/MNKYBananaGrotesk-Light.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/mnky-banana-grotesk/MNKYBananaGrotesk-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Banana Grotesk';
+    src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/mnky-banana-grotesk/MNKYBananaGrotesk-LightItalic.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/mnky-banana-grotesk/MNKYBananaGrotesk-LightItalic.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/mnky-banana-grotesk/MNKYBananaGrotesk-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Banana Grotesk';
+    src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/mnky-banana-grotesk/MNKYBananaGrotesk-Regular.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/mnky-banana-grotesk/MNKYBananaGrotesk-Regular.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/mnky-banana-grotesk/MNKYBananaGrotesk-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Banana Grotesk';
+    src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/mnky-banana-grotesk/MNKYBananaGrotesk-RegIta.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/mnky-banana-grotesk/MNKYBananaGrotesk-RegIta.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/mnky-banana-grotesk/MNKYBananaGrotesk-RegIta.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Banana Grotesk';
+    src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/mnky-banana-grotesk/MNKYBananaGrotesk-Medium.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/mnky-banana-grotesk/MNKYBananaGrotesk-Medium.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/mnky-banana-grotesk/MNKYBananaGrotesk-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Banana Grotesk';
+    src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/mnky-banana-grotesk/MNKYBananaGrotesk-MedIta.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/mnky-banana-grotesk/MNKYBananaGrotesk-MedIta.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/mnky-banana-grotesk/MNKYBananaGrotesk-MedIta.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Banana Grotesk';
+    src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/mnky-banana-grotesk/MNKYBananaGrotesk-SemiBold.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/mnky-banana-grotesk/MNKYBananaGrotesk-SemiBold.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/mnky-banana-grotesk/MNKYBananaGrotesk-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Banana Grotesk';
+    src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/mnky-banana-grotesk/MNKYBananaGrotesk-SemBdIta.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/mnky-banana-grotesk/MNKYBananaGrotesk-SemBdIta.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/mnky-banana-grotesk/MNKYBananaGrotesk-SemBdIta.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Banana Grotesk';
+    src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/mnky-banana-grotesk/MNKYBananaGrotesk-Bold.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/mnky-banana-grotesk/MNKYBananaGrotesk-Bold.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/mnky-banana-grotesk/MNKYBananaGrotesk-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Banana Grotesk';
+    src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/mnky-banana-grotesk/MNKYBananaGrotesk-BoldItalic.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/mnky-banana-grotesk/MNKYBananaGrotesk-BoldItalic.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/mnky-banana-grotesk/MNKYBananaGrotesk-BoldItalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Banana Grotesk';
+    src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/mnky-banana-grotesk/MNKYBananaGrotesk-ExtraBold.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/mnky-banana-grotesk/MNKYBananaGrotesk-ExtraBold.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/mnky-banana-grotesk/MNKYBananaGrotesk-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MNKY Banana Grotesk';
+    src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/mnky-banana-grotesk/MNKYBananaGrotesk-ExtBdIta.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/mnky-banana-grotesk/MNKYBananaGrotesk-ExtBdIta.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/mnky-banana-grotesk/MNKYBananaGrotesk-ExtBdIta.ttf') format('truetype');
+    font-weight: 800;
+    font-style: italic;
+    font-display: swap;
+}
