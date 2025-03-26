@@ -1,0 +1,159 @@
+@font-face {
+    font-family: 'GT Walsheim';
+    src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/gt-walsheim/GTWalsheim-Thin.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/gt-walsheim/GTWalsheim-Thin.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/gt-walsheim/GTWalsheim-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'GT Walsheim';
+    src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/gt-walsheim/GTWalsheim-ThinItalic.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/gt-walsheim/GTWalsheim-ThinItalic.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/gt-walsheim/GTWalsheim-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'GT Walsheim';
+    src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/gt-walsheim/GTWalsheim-ExtraLight.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/gt-walsheim/GTWalsheim-ExtraLight.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/gt-walsheim/GTWalsheim-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'GT Walsheim';
+    src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/gt-walsheim/GTWalsheim-ExtraLightItalic.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/gt-walsheim/GTWalsheim-ExtraLightItalic.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/gt-walsheim/GTWalsheim-ExtraLightItalic.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'GT Walsheim';
+    src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/gt-walsheim/GTWalsheim-Light.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/gt-walsheim/GTWalsheim-Light.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/gt-walsheim/GTWalsheim-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'GT Walsheim';
+    src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/gt-walsheim/GTWalsheim-LightItalic.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/gt-walsheim/GTWalsheim-LightItalic.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/gt-walsheim/GTWalsheim-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'GT Walsheim';
+    src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/gt-walsheim/GTWalsheim-Regular.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/gt-walsheim/GTWalsheim-Regular.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/gt-walsheim/GTWalsheim-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'GT Walsheim';
+    src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/gt-walsheim/GTWalsheim-RegularItalic.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/gt-walsheim/GTWalsheim-RegularItalic.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/gt-walsheim/GTWalsheim-RegularItalic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'GT Walsheim';
+    src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/gt-walsheim/GTWalsheim-Medium.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/gt-walsheim/GTWalsheim-Medium.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/gt-walsheim/GTWalsheim-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'GT Walsheim';
+    src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/gt-walsheim/GTWalsheim-MediumItalic.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/gt-walsheim/GTWalsheim-MediumItalic.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/gt-walsheim/GTWalsheim-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'GT Walsheim';
+    src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/gt-walsheim/GTWalsheim-Bold.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/gt-walsheim/GTWalsheim-Bold.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/gt-walsheim/GTWalsheim-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'GT Walsheim';
+    src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/gt-walsheim/GTWalsheim-BoldItalic.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/gt-walsheim/GTWalsheim-BoldItalic.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/gt-walsheim/GTWalsheim-BoldItalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'GT Walsheim';
+    src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/gt-walsheim/GTWalsheim-ExtraBold.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/gt-walsheim/GTWalsheim-ExtraBold.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/gt-walsheim/GTWalsheim-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'GT Walsheim';
+    src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/gt-walsheim/GTWalsheim-ExtraBoldItalic.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/gt-walsheim/GTWalsheim-ExtraBoldItalic.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/gt-walsheim/GTWalsheim-ExtraBoldItalic.ttf') format('truetype');
+    font-weight: 800;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'GT Walsheim';
+    src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/gt-walsheim/GTWalsheim-Black.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/gt-walsheim/GTWalsheim-Black.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/gt-walsheim/GTWalsheim-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'GT Walsheim';
+    src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/gt-walsheim/GTWalsheim-BlackItalic.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/gt-walsheim/GTWalsheim-BlackItalic.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@main/fonts/gt-walsheim/GTWalsheim-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
