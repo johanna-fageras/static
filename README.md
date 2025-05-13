@@ -35,7 +35,7 @@ static/
 │   │   ├── fonts/
 │   │   │   ├── Inter-Regular.woff2
 │   │   │   └── Inter-Bold.woff2
-│   │   └── inter.css
+│   │   └── index.css
 ├── styles/
 │   ├── base/
 │   │   └── reset.css
@@ -57,7 +57,7 @@ static/
 ```html
 <link
   rel="stylesheet"
-  href="https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/inter/inter.css"
+  href="https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/inter/index.css"
 />
 ```
 
