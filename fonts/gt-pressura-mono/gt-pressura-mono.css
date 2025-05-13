@@ -1,0 +1,155 @@
+@font-face {
+  font-family: "GT Pressura Mono";
+  src: url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-pressura-mono/fonts/GTPressuraMono-Light.woff2")
+      format("woff2"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-pressura-mono/fonts/GTPressuraMono-Light.woff")
+      format("woff"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-pressura-mono/fonts/GTPressuraMono-Light.ttf")
+      format("truetype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Pressura Mono";
+  src: url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-pressura-mono/fonts/GTPressuraMono-LightItalic.woff2")
+      format("woff2"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-pressura-mono/fonts/GTPressuraMono-LightItalic.woff")
+      format("woff"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-pressura-mono/fonts/GTPressuraMono-LightItalic.ttf")
+      format("truetype");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Pressura Mono";
+  src: url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-pressura-mono/fonts/GTPressuraMono-Text.woff2")
+      format("woff2"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-pressura-mono/fonts/GTPressuraMono-Text.woff")
+      format("woff"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-pressura-mono/fonts/GTPressuraMono-Text.ttf")
+      format("truetype");
+  font-weight: 350;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Pressura Mono";
+  src: url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-pressura-mono/fonts/GTPressuraMono-TextItalic.woff2")
+      format("woff2"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-pressura-mono/fonts/GTPressuraMono-TextItalic.woff")
+      format("woff"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-pressura-mono/fonts/GTPressuraMono-TextItalic.ttf")
+      format("truetype");
+  font-weight: 350;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Pressura Mono";
+  src: url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-pressura-mono/fonts/GTPressuraMono-Regular.woff2")
+      format("woff2"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-pressura-mono/fonts/GTPressuraMono-Regular.woff")
+      format("woff"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-pressura-mono/fonts/GTPressuraMono-Regular.ttf")
+      format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Pressura Mono";
+  src: url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-pressura-mono/fonts/GTPressuraMono-RegularItalic.woff2")
+      format("woff2"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-pressura-mono/fonts/GTPressuraMono-RegularItalic.woff")
+      format("woff"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-pressura-mono/fonts/GTPressuraMono-RegularItalic.ttf")
+      format("truetype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Pressura Mono";
+  src: url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-pressura-mono/fonts/GTPressuraMono-Medium.woff2")
+      format("woff2"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-pressura-mono/fonts/GTPressuraMono-Medium.woff")
+      format("woff"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-pressura-mono/fonts/GTPressuraMono-Medium.ttf")
+      format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Pressura Mono";
+  src: url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-pressura-mono/fonts/GTPressuraMono-MediumItalic.woff2")
+      format("woff2"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-pressura-mono/fonts/GTPressuraMono-MediumItalic.woff")
+      format("woff"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-pressura-mono/fonts/GTPressuraMono-MediumItalic.ttf")
+      format("truetype");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Pressura Mono";
+  src: url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-pressura-mono/fonts/GTPressuraMono-Bold.woff2")
+      format("woff2"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-pressura-mono/fonts/GTPressuraMono-Bold.woff")
+      format("woff"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-pressura-mono/fonts/GTPressuraMono-Bold.ttf")
+      format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Pressura Mono";
+  src: url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-pressura-mono/fonts/GTPressuraMono-BoldItalic.woff2")
+      format("woff2"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-pressura-mono/fonts/GTPressuraMono-BoldItalic.woff")
+      format("woff"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-pressura-mono/fonts/GTPressuraMono-BoldItalic.ttf")
+      format("truetype");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Pressura Mono";
+  src: url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-pressura-mono/fonts/GTPressuraMono-Black.woff2")
+      format("woff2"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-pressura-mono/fonts/GTPressuraMono-Black.woff")
+      format("woff"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-pressura-mono/fonts/GTPressuraMono-Black.ttf")
+      format("truetype");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Pressura Mono";
+  src: url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-pressura-mono/fonts/GTPressuraMono-BlackItalic.woff2")
+      format("woff2"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-pressura-mono/fonts/GTPressuraMono-BlackItalic.woff")
+      format("woff"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-pressura-mono/fonts/GTPressuraMono-BlackItalic.ttf")
+      format("truetype");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
