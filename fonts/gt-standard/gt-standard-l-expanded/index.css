@@ -1,0 +1,182 @@
+/* GT Standard L Expanded */
+@font-face {
+  font-family: "GT Standard L Expanded";
+  src: url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-standard/gt-standard-l-expanded/fonts/GTStandard-LExpandedBlack.woff2")
+      format("woff2"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-standard/gt-standard-l-expanded/fonts/GTStandard-LExpandedBlack.woff")
+      format("woff"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-standard/gt-standard-l-expanded/fonts/GTStandard-LExpandedBlack.ttf")
+      format("truetype");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Standard L Expanded";
+  src: url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-standard/gt-standard-l-expanded/fonts/GTStandard-LExpandedBlackOblique.woff2")
+      format("woff2"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-standard/gt-standard-l-expanded/fonts/GTStandard-LExpandedBlackOblique.woff")
+      format("woff"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-standard/gt-standard-l-expanded/fonts/GTStandard-LExpandedBlackOblique.ttf")
+      format("truetype");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Standard L Expanded";
+  src: url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-standard/gt-standard-l-expanded/fonts/GTStandard-LExpandedBold.woff2")
+      format("woff2"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-standard/gt-standard-l-expanded/fonts/GTStandard-LExpandedBold.woff")
+      format("woff"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-standard/gt-standard-l-expanded/fonts/GTStandard-LExpandedBold.ttf")
+      format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Standard L Expanded";
+  src: url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-standard/gt-standard-l-expanded/fonts/GTStandard-LExpandedBoldOblique.woff2")
+      format("woff2"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-standard/gt-standard-l-expanded/fonts/GTStandard-LExpandedBoldOblique.woff")
+      format("woff"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-standard/gt-standard-l-expanded/fonts/GTStandard-LExpandedBoldOblique.ttf")
+      format("truetype");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Standard L Expanded";
+  src: url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-standard/gt-standard-l-expanded/fonts/GTStandard-LExpandedHeavy.woff2")
+      format("woff2"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-standard/gt-standard-l-expanded/fonts/GTStandard-LExpandedHeavy.woff")
+      format("woff"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-standard/gt-standard-l-expanded/fonts/GTStandard-LExpandedHeavy.ttf")
+      format("truetype");
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Standard L Expanded";
+  src: url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-standard/gt-standard-l-expanded/fonts/GTStandard-LExpandedHeavyOblique.woff2")
+      format("woff2"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-standard/gt-standard-l-expanded/fonts/GTStandard-LExpandedHeavyOblique.woff")
+      format("woff"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-standard/gt-standard-l-expanded/fonts/GTStandard-LExpandedHeavyOblique.ttf")
+      format("truetype");
+  font-weight: 800;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Standard L Expanded";
+  src: url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-standard/gt-standard-l-expanded/fonts/GTStandard-LExpandedLight.woff2")
+      format("woff2"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-standard/gt-standard-l-expanded/fonts/GTStandard-LExpandedLight.woff")
+      format("woff"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-standard/gt-standard-l-expanded/fonts/GTStandard-LExpandedLight.ttf")
+      format("truetype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Standard L Expanded";
+  src: url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-standard/gt-standard-l-expanded/fonts/GTStandard-LExpandedLightOblique.woff2")
+      format("woff2"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-standard/gt-standard-l-expanded/fonts/GTStandard-LExpandedLightOblique.woff")
+      format("woff"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-standard/gt-standard-l-expanded/fonts/GTStandard-LExpandedLightOblique.ttf")
+      format("truetype");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Standard L Expanded";
+  src: url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-standard/gt-standard-l-expanded/fonts/GTStandard-LExpandedMedium.woff2")
+      format("woff2"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-standard/gt-standard-l-expanded/fonts/GTStandard-LExpandedMedium.woff")
+      format("woff"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-standard/gt-standard-l-expanded/fonts/GTStandard-LExpandedMedium.ttf")
+      format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Standard L Expanded";
+  src: url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-standard/gt-standard-l-expanded/fonts/GTStandard-LExpandedMediumOblique.woff2")
+      format("woff2"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-standard/gt-standard-l-expanded/fonts/GTStandard-LExpandedMediumOblique.woff")
+      format("woff"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-standard/gt-standard-l-expanded/fonts/GTStandard-LExpandedMediumOblique.ttf")
+      format("truetype");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Standard L Expanded";
+  src: url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-standard/gt-standard-l-expanded/fonts/GTStandard-LExpandedRegular.woff2")
+      format("woff2"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-standard/gt-standard-l-expanded/fonts/GTStandard-LExpandedRegular.woff")
+      format("woff"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-standard/gt-standard-l-expanded/fonts/GTStandard-LExpandedRegular.ttf")
+      format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Standard L Expanded";
+  src: url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-standard/gt-standard-l-expanded/fonts/GTStandard-LExpandedRegularOblique.woff2")
+      format("woff2"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-standard/gt-standard-l-expanded/fonts/GTStandard-LExpandedRegularOblique.woff")
+      format("woff"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-standard/gt-standard-l-expanded/fonts/GTStandard-LExpandedRegularOblique.ttf")
+      format("truetype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Standard L Expanded";
+  src: url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-standard/gt-standard-l-expanded/fonts/GTStandard-LExpandedSemibold.woff2")
+      format("woff2"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-standard/gt-standard-l-expanded/fonts/GTStandard-LExpandedSemibold.woff")
+      format("woff"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-standard/gt-standard-l-expanded/fonts/GTStandard-LExpandedSemibold.ttf")
+      format("truetype");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Standard L Expanded";
+  src: url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-standard/gt-standard-l-expanded/fonts/GTStandard-LExpandedSemiboldOblique.woff2")
+      format("woff2"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-standard/gt-standard-l-expanded/fonts/GTStandard-LExpandedSemiboldOblique.woff")
+      format("woff"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-standard/gt-standard-l-expanded/fonts/GTStandard-LExpandedSemiboldOblique.ttf")
+      format("truetype");
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}

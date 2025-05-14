@@ -1,0 +1,129 @@
+@font-face {
+  font-family: "GT Alpina Condensed";
+  src: url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-alpina/gt-alpina-condensed/fonts/GTAlpinaCondensed-Thin.woff2")
+      format("woff2"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-alpina/gt-alpina-condensed/fonts/GTAlpinaCondensed-Thin.woff")
+      format("woff"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-alpina/gt-alpina-condensed/fonts/GTAlpinaCondensed-Thin.ttf")
+      format("truetype");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Alpina Condensed";
+  src: url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-alpina/gt-alpina-condensed/fonts/GTAlpinaCondensed-ThinItalic.woff2")
+      format("woff2"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-alpina/gt-alpina-condensed/fonts/GTAlpinaCondensed-ThinItalic.woff")
+      format("woff"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-alpina/gt-alpina-condensed/fonts/GTAlpinaCondensed-ThinItalic.ttf")
+      format("truetype");
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Alpina Condensed";
+  src: url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-alpina/gt-alpina-condensed/fonts/GTAlpinaCondensed-Light.woff2")
+      format("woff2"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-alpina/gt-alpina-condensed/fonts/GTAlpinaCondensed-Light.woff")
+      format("woff"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-alpina/gt-alpina-condensed/fonts/GTAlpinaCondensed-Light.ttf")
+      format("truetype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Alpina Condensed";
+  src: url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-alpina/gt-alpina-condensed/fonts/GTAlpinaCondensed-LightItalic.woff2")
+      format("woff2"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-alpina/gt-alpina-condensed/fonts/GTAlpinaCondensed-LightItalic.woff")
+      format("woff"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-alpina/gt-alpina-condensed/fonts/GTAlpinaCondensed-LightItalic.ttf")
+      format("truetype");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Alpina Condensed";
+  src: url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-alpina/gt-alpina-condensed/fonts/GTAlpinaCondensed-Regular.woff2")
+      format("woff2"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-alpina/gt-alpina-condensed/fonts/GTAlpinaCondensed-Regular.woff")
+      format("woff"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-alpina/gt-alpina-condensed/fonts/GTAlpinaCondensed-Regular.ttf")
+      format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Alpina Condensed";
+  src: url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-alpina/gt-alpina-condensed/fonts/GTAlpinaCondensed-RegularItalic.woff2")
+      format("woff2"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-alpina/gt-alpina-condensed/fonts/GTAlpinaCondensed-RegularItalic.woff")
+      format("woff"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-alpina/gt-alpina-condensed/fonts/GTAlpinaCondensed-RegularItalic.ttf")
+      format("truetype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Alpina Condensed";
+  src: url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-alpina/gt-alpina-condensed/fonts/GTAlpinaCondensed-Medium.woff2")
+      format("woff2"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-alpina/gt-alpina-condensed/fonts/GTAlpinaCondensed-Medium.woff")
+      format("woff"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-alpina/gt-alpina-condensed/fonts/GTAlpinaCondensed-Medium.ttf")
+      format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Alpina Condensed";
+  src: url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-alpina/gt-alpina-condensed/fonts/GTAlpinaCondensed-MedIta.woff2")
+      format("woff2"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-alpina/gt-alpina-condensed/fonts/GTAlpinaCondensed-MedIta.woff")
+      format("woff"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-alpina/gt-alpina-condensed/fonts/GTAlpinaCondensed-MedIta.ttf")
+      format("truetype");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Alpina Condensed";
+  src: url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-alpina/gt-alpina-condensed/fonts/GTAlpinaCondensed-Bold.woff2")
+      format("woff2"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-alpina/gt-alpina-condensed/fonts/GTAlpinaCondensed-Bold.woff")
+      format("woff"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-alpina/gt-alpina-condensed/fonts/GTAlpinaCondensed-Bold.ttf")
+      format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Alpina Condensed";
+  src: url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-alpina/gt-alpina-condensed/fonts/GTAlpinaCondensed-BoldItalic.woff2")
+      format("woff2"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-alpina/gt-alpina-condensed/fonts/GTAlpinaCondensed-BoldItalic.woff")
+      format("woff"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-alpina/gt-alpina-condensed/fonts/GTAlpinaCondensed-BoldItalic.ttf")
+      format("truetype");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}

@@ -1,0 +1,129 @@
+@font-face {
+  font-family: "GT Alpina Typewriter";
+  src: url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-alpina/gt-alpina-typewriter/fonts/GTAlpinaTypewriter-Thin.woff2")
+      format("woff2"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-alpina/gt-alpina-typewriter/fonts/GTAlpinaTypewriter-Thin.woff")
+      format("woff"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-alpina/gt-alpina-typewriter/fonts/GTAlpinaTypewriter-Thin.ttf")
+      format("truetype");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Alpina Typewriter";
+  src: url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-alpina/gt-alpina-typewriter/fonts/GTAlpinaTypewriter-ThinItalic.woff2")
+      format("woff2"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-alpina/gt-alpina-typewriter/fonts/GTAlpinaTypewriter-ThinItalic.woff")
+      format("woff"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-alpina/gt-alpina-typewriter/fonts/GTAlpinaTypewriter-ThinItalic.ttf")
+      format("truetype");
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Alpina Typewriter";
+  src: url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-alpina/gt-alpina-typewriter/fonts/GTAlpinaTypewriter-Light.woff2")
+      format("woff2"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-alpina/gt-alpina-typewriter/fonts/GTAlpinaTypewriter-Light.woff")
+      format("woff"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-alpina/gt-alpina-typewriter/fonts/GTAlpinaTypewriter-Light.ttf")
+      format("truetype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Alpina Typewriter";
+  src: url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-alpina/gt-alpina-typewriter/fonts/GTAlpinaTypewriter-LightIta.woff2")
+      format("woff2"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-alpina/gt-alpina-typewriter/fonts/GTAlpinaTypewriter-LightIta.woff")
+      format("woff"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-alpina/gt-alpina-typewriter/fonts/GTAlpinaTypewriter-LightIta.ttf")
+      format("truetype");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Alpina Typewriter";
+  src: url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-alpina/gt-alpina-typewriter/fonts/GTAlpinaTypewriter-Regular.woff2")
+      format("woff2"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-alpina/gt-alpina-typewriter/fonts/GTAlpinaTypewriter-Regular.woff")
+      format("woff"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-alpina/gt-alpina-typewriter/fonts/GTAlpinaTypewriter-Regular.ttf")
+      format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Alpina Typewriter";
+  src: url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-alpina/gt-alpina-typewriter/fonts/GTAlpinaTypewriter-RegularItalic.woff2")
+      format("woff2"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-alpina/gt-alpina-typewriter/fonts/GTAlpinaTypewriter-RegularItalic.woff")
+      format("woff"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-alpina/gt-alpina-typewriter/fonts/GTAlpinaTypewriter-RegularItalic.ttf")
+      format("truetype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Alpina Typewriter";
+  src: url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-alpina/gt-alpina-typewriter/fonts/GTAlpinaTypewriter-Medium.woff2")
+      format("woff2"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-alpina/gt-alpina-typewriter/fonts/GTAlpinaTypewriter-Medium.woff")
+      format("woff"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-alpina/gt-alpina-typewriter/fonts/GTAlpinaTypewriter-Medium.ttf")
+      format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Alpina Typewriter";
+  src: url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-alpina/gt-alpina-typewriter/fonts/GTAlpinaTypewriter-MedIta.woff2")
+      format("woff2"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-alpina/gt-alpina-typewriter/fonts/GTAlpinaTypewriter-MedIta.woff")
+      format("woff"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-alpina/gt-alpina-typewriter/fonts/GTAlpinaTypewriter-MedIta.ttf")
+      format("truetype");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Alpina Typewriter";
+  src: url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-alpina/gt-alpina-typewriter/fonts/GTAlpinaTypewriter-Bold.woff2")
+      format("woff2"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-alpina/gt-alpina-typewriter/fonts/GTAlpinaTypewriter-Bold.woff")
+      format("woff"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-alpina/gt-alpina-typewriter/fonts/GTAlpinaTypewriter-Bold.ttf")
+      format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GT Alpina Typewriter";
+  src: url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-alpina/gt-alpina-typewriter/fonts/GTAlpinaTypewriter-BoldItalic.woff2")
+      format("woff2"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-alpina/gt-alpina-typewriter/fonts/GTAlpinaTypewriter-BoldItalic.woff")
+      format("woff"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/gt-alpina/gt-alpina-typewriter/fonts/GTAlpinaTypewriter-BoldItalic.ttf")
+      format("truetype");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
