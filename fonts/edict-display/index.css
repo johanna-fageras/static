@@ -1,0 +1,134 @@
+/* EDICT DISPLAY — FULL FONT-FACE SETUP */
+:root {
+  --edict-display: "Edict Display", sans-serif;
+}
+
+@font-face {
+  font-family: "Edict Display";
+  src: url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/edict-display/fonts/EdictDisplay-Thin.woff2")
+      format("woff2"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/edict-display/fonts/EdictDisplay-Thin.woff")
+      format("woff"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/edict-display/fonts/EdictDisplay-Thin.ttf")
+      format("truetype");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Edict Display";
+  src: url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/edict-display/fonts/EdictDisplay-ThinItalic.woff2")
+      format("woff2"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/edict-display/fonts/EdictDisplay-ThinItalic.woff")
+      format("woff"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/edict-display/fonts/EdictDisplay-ThinItalic.ttf")
+      format("truetype");
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Edict Display";
+  src: url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/edict-display/fonts/EdictDisplay-Light.woff2")
+      format("woff2"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/edict-display/fonts/EdictDisplay-Light.woff")
+      format("woff"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/edict-display/fonts/EdictDisplay-Light.ttf")
+      format("truetype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Edict Display";
+  src: url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/edict-display/fonts/EdictDisplay-LightItalic.woff2")
+      format("woff2"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/edict-display/fonts/EdictDisplay-LightItalic.woff")
+      format("woff"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/edict-display/fonts/EdictDisplay-LightItalic.ttf")
+      format("truetype");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Edict Display";
+  src: url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/edict-display/fonts/EdictDisplay-Regular.woff2")
+      format("woff2"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/edict-display/fonts/EdictDisplay-Regular.woff")
+      format("woff"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/edict-display/fonts/EdictDisplay-Regular.ttf")
+      format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Edict Display";
+  src: url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/edict-display/fonts/EdictDisplay-RegularItalic.woff2")
+      format("woff2"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/edict-display/fonts/EdictDisplay-RegularItalic.woff")
+      format("woff"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/edict-display/fonts/EdictDisplay-RegularItalic.ttf")
+      format("truetype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Edict Display";
+  src: url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/edict-display/fonts/EdictDisplay-Medium.woff2")
+      format("woff2"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/edict-display/fonts/EdictDisplay-Medium.woff")
+      format("woff"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/edict-display/fonts/EdictDisplay-Medium.ttf")
+      format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Edict Display";
+  src: url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/edict-display/fonts/EdictDisplay-MediumItalic.woff2")
+      format("woff2"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/edict-display/fonts/EdictDisplay-MediumItalic.woff")
+      format("woff"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/edict-display/fonts/EdictDisplay-MediumItalic.ttf")
+      format("truetype");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Edict Display";
+  src: url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/edict-display/fonts/EdictDisplay-Bold.woff2")
+      format("woff2"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/edict-display/fonts/EdictDisplay-Bold.woff")
+      format("woff"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/edict-display/fonts/EdictDisplay-Bold.ttf")
+      format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Edict Display";
+  src: url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/edict-display/fonts/EdictDisplay-BoldItalic.woff2")
+      format("woff2"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/edict-display/fonts/EdictDisplay-BoldItalic.woff")
+      format("woff"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/edict-display/fonts/EdictDisplay-BoldItalic.ttf")
+      format("truetype");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
