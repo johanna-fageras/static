@@ -1,0 +1,54 @@
+/* Fredoka - Light */
+@font-face {
+  font-family: 'Fredoka';
+  src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/fredoka/fredoka/fonts/Fredoka-Light.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/fredoka/fredoka/fonts/Fredoka-Light.woff') format('woff'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/fredoka/fredoka/fonts/Fredoka-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Fredoka - Regular */
+@font-face {
+  font-family: 'Fredoka';
+  src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/fredoka/fredoka/fonts/Fredoka-Regular.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/fredoka/fredoka/fonts/Fredoka-Regular.woff') format('woff'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/fredoka/fredoka/fonts/Fredoka-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Fredoka - Medium */
+@font-face {
+  font-family: 'Fredoka';
+  src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/fredoka/fredoka/fonts/Fredoka-Medium.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/fredoka/fredoka/fonts/Fredoka-Medium.woff') format('woff'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/fredoka/fredoka/fonts/Fredoka-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Fredoka - SemiBold */
+@font-face {
+  font-family: 'Fredoka';
+  src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/fredoka/fredoka/fonts/Fredoka-SemiBold.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/fredoka/fredoka/fonts/Fredoka-SemiBold.woff') format('woff'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/fredoka/fredoka/fonts/Fredoka-SemiBold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Fredoka - Bold */
+@font-face {
+  font-family: 'Fredoka';
+  src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/fredoka/fredoka/fonts/Fredoka-Bold.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/fredoka/fredoka/fonts/Fredoka-Bold.woff') format('woff'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/fredoka/fredoka/fonts/Fredoka-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}

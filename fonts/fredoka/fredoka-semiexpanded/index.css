@@ -1,0 +1,54 @@
+/* Fredoka SemiExpanded - Light */
+@font-face {
+  font-family: 'Fredoka SemiExpanded';
+  src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/fredoka/fredoka-semiexpanded/fonts/FredokaSemiExpanded-Light.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/fredoka/fredoka-semiexpanded/fonts/FredokaSemiExpanded-Light.woff') format('woff'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/fredoka/fredoka-semiexpanded/fonts/FredokaSemiExpanded-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Fredoka SemiExpanded - Regular */
+@font-face {
+  font-family: 'Fredoka SemiExpanded';
+  src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/fredoka/fredoka-semiexpanded/fonts/FredokaSemiExpanded-Regular.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/fredoka/fredoka-semiexpanded/fonts/FredokaSemiExpanded-Regular.woff') format('woff'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/fredoka/fredoka-semiexpanded/fonts/FredokaSemiExpanded-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Fredoka SemiExpanded - Medium */
+@font-face {
+  font-family: 'Fredoka SemiExpanded';
+  src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/fredoka/fredoka-semiexpanded/fonts/FredokaSemiExpanded-Medium.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/fredoka/fredoka-semiexpanded/fonts/FredokaSemiExpanded-Medium.woff') format('woff'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/fredoka/fredoka-semiexpanded/fonts/FredokaSemiExpanded-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Fredoka SemiExpanded - SemiBold */
+@font-face {
+  font-family: 'Fredoka SemiExpanded';
+  src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/fredoka/fredoka-semiexpanded/fonts/FredokaSemiExpanded-SemiBold.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/fredoka/fredoka-semiexpanded/fonts/FredokaSemiExpanded-SemiBold.woff') format('woff'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/fredoka/fredoka-semiexpanded/fonts/FredokaSemiExpanded-SemiBold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Fredoka SemiExpanded - Bold */
+@font-face {
+  font-family: 'Fredoka SemiExpanded';
+  src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/fredoka/fredoka-semiexpanded/fonts/FredokaSemiExpanded-Bold.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/fredoka/fredoka-semiexpanded/fonts/FredokaSemiExpanded-Bold.woff') format('woff'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/fredoka/fredoka-semiexpanded/fonts/FredokaSemiExpanded-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}

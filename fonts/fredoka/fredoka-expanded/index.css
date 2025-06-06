@@ -1,0 +1,54 @@
+/* Fredoka Expanded - Light */
+@font-face {
+  font-family: 'Fredoka Expanded';
+  src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/fredoka/fredoka-expanded/fonts/FredokaExpanded-Light.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/fredoka/fredoka-expanded/fonts/FredokaExpanded-Light.woff') format('woff'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/fredoka/fredoka-expanded/fonts/FredokaExpanded-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Fredoka Expanded - Regular */
+@font-face {
+  font-family: 'Fredoka Expanded';
+  src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/fredoka/fredoka-expanded/fonts/FredokaExpanded-Regular.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/fredoka/fredoka-expanded/fonts/FredokaExpanded-Regular.woff') format('woff'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/fredoka/fredoka-expanded/fonts/FredokaExpanded-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Fredoka Expanded - Medium */
+@font-face {
+  font-family: 'Fredoka Expanded';
+  src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/fredoka/fredoka-expanded/fonts/FredokaExpanded-Medium.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/fredoka/fredoka-expanded/fonts/FredokaExpanded-Medium.woff') format('woff'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/fredoka/fredoka-expanded/fonts/FredokaExpanded-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Fredoka Expanded - SemiBold */
+@font-face {
+  font-family: 'Fredoka Expanded';
+  src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/fredoka/fredoka-expanded/fonts/FredokaExpanded-SemiBold.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/fredoka/fredoka-expanded/fonts/FredokaExpanded-SemiBold.woff') format('woff'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/fredoka/fredoka-expanded/fonts/FredokaExpanded-SemiBold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Fredoka Expanded - Bold */
+@font-face {
+  font-family: 'Fredoka Expanded';
+  src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/fredoka/fredoka-expanded/fonts/FredokaExpanded-Bold.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/fredoka/fredoka-expanded/fonts/FredokaExpanded-Bold.woff') format('woff'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/fredoka/fredoka-expanded/fonts/FredokaExpanded-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
