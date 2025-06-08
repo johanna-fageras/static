@@ -1,0 +1,168 @@
+/* Sofia Pro Font Face Rules */
+
+@font-face {
+  font-family: 'Sofia Pro';
+  src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/sofia-pro/fonts/SofiaPro-Thin.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/sofia-pro/fonts/SofiaPro-Thin.woff') format('woff'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/sofia-pro/fonts/SofiaPro-Thin.ttf') format('truetype');
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Sofia Pro';
+  src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/sofia-pro/fonts/SofiaPro-ThinItalic.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/sofia-pro/fonts/SofiaPro-ThinItalic.woff') format('woff'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/sofia-pro/fonts/SofiaPro-ThinItalic.ttf') format('truetype');
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* ExtraLight */
+@font-face {
+  font-family: 'Sofia Pro';
+  src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/sofia-pro/fonts/SofiaPro-ExtraLight.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/sofia-pro/fonts/SofiaPro-ExtraLight.woff') format('woff'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/sofia-pro/fonts/SofiaPro-ExtraLight.ttf') format('truetype');
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Sofia Pro';
+  src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/sofia-pro/fonts/SofiaPro-ExtraLightItalic.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/sofia-pro/fonts/SofiaPro-ExtraLightItalic.woff') format('woff'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/sofia-pro/fonts/SofiaPro-ExtraLightItalic.ttf') format('truetype');
+  font-weight: 200;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* Light */
+@font-face {
+  font-family: 'Sofia Pro';
+  src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/sofia-pro/fonts/SofiaPro-Light.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/sofia-pro/fonts/SofiaPro-Light.woff') format('woff'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/sofia-pro/fonts/SofiaPro-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Sofia Pro';
+  src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/sofia-pro/fonts/SofiaPro-LightItalic.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/sofia-pro/fonts/SofiaPro-LightItalic.woff') format('woff'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/sofia-pro/fonts/SofiaPro-LightItalic.ttf') format('truetype');
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* Regular */
+@font-face {
+  font-family: 'Sofia Pro';
+  src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/sofia-pro/fonts/SofiaPro-Regular.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/sofia-pro/fonts/SofiaPro-Regular.woff') format('woff'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/sofia-pro/fonts/SofiaPro-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Sofia Pro';
+  src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/sofia-pro/fonts/SofiaPro-RegularItalic.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/sofia-pro/fonts/SofiaPro-RegularItalic.woff') format('woff'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/sofia-pro/fonts/SofiaPro-RegularItalic.ttf') format('truetype');
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* Medium */
+@font-face {
+  font-family: 'Sofia Pro';
+  src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/sofia-pro/fonts/SofiaPro-Medium.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/sofia-pro/fonts/SofiaPro-Medium.woff') format('woff'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/sofia-pro/fonts/SofiaPro-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Sofia Pro';
+  src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/sofia-pro/fonts/SofiaPro-MediumItalic.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/sofia-pro/fonts/SofiaPro-MediumItalic.woff') format('woff'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/sofia-pro/fonts/SofiaPro-MediumItalic.ttf') format('truetype');
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* SemiBold */
+@font-face {
+  font-family: 'Sofia Pro';
+  src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/sofia-pro/fonts/SofiaPro-SemiBold.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/sofia-pro/fonts/SofiaPro-SemiBold.woff') format('woff'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/sofia-pro/fonts/SofiaPro-SemiBold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Sofia Pro';
+  src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/sofia-pro/fonts/SofiaPro-SemiBoldItalic.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/sofia-pro/fonts/SofiaPro-SemiBoldItalic.woff') format('woff'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/sofia-pro/fonts/SofiaPro-SemiBoldItalic.ttf') format('truetype');
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* Bold */
+@font-face {
+  font-family: 'Sofia Pro';
+  src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/sofia-pro/fonts/SofiaPro-Bold.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/sofia-pro/fonts/SofiaPro-Bold.woff') format('woff'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/sofia-pro/fonts/SofiaPro-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Sofia Pro';
+  src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/sofia-pro/fonts/SofiaPro-BoldItalic.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/sofia-pro/fonts/SofiaPro-BoldItalic.woff') format('woff'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/sofia-pro/fonts/SofiaPro-BoldItalic.ttf') format('truetype');
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* Black */
+@font-face {
+  font-family: 'Sofia Pro';
+  src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/sofia-pro/fonts/SofiaPro-Black.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/sofia-pro/fonts/SofiaPro-Black.woff') format('woff'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/sofia-pro/fonts/SofiaPro-Black.ttf') format('truetype');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Sofia Pro';
+  src: url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/sofia-pro/fonts/SofiaPro-BlackItalic.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/sofia-pro/fonts/SofiaPro-BlackItalic.woff') format('woff'),
+    url('https://cdn.jsdelivr.net/gh/johanna-fageras/static@latest/fonts/sofia-pro/fonts/SofiaPro-BlackItalic.ttf') format('truetype');
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
