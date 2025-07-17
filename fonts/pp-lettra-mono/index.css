@@ -1,0 +1,167 @@
+/* PP Lettra Mono Thin */
+@font-face {
+  font-family: 'PP Lettra Mono';
+  src: url('./fonts/PPLettraMono-Thin.woff2') format('woff2'),
+    url('./fonts/PPLettraMono-Thin.woff') format('woff'),
+    url('./fonts/PPLettraMono-Thin.ttf') format('truetype');
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'PP Lettra Mono';
+  src: url('./fonts/PPLettraMono-ThinItalic.woff2') format('woff2'),
+    url('./fonts/PPLettraMono-ThinItalic.woff') format('woff'),
+    url('./fonts/PPLettraMono-ThinItalic.ttf') format('truetype');
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* PP Lettra Mono Ultralight */
+@font-face {
+  font-family: 'PP Lettra Mono';
+  src: url('./fonts/PPLettraMono-Ultralight.woff2') format('woff2'),
+    url('./fonts/PPLettraMono-Ultralight.woff') format('woff'),
+    url('./fonts/PPLettraMono-Ultralight.ttf') format('truetype');
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'PP Lettra Mono';
+  src: url('./fonts/PPLettraMono-UltralightItalic.woff2') format('woff2'),
+    url('./fonts/PPLettraMono-UltralightItalic.woff') format('woff'),
+    url('./fonts/PPLettraMono-UltralightItalic.ttf') format('truetype');
+  font-weight: 200;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* PP Lettra Mono Light */
+@font-face {
+  font-family: 'PP Lettra Mono';
+  src: url('./fonts/PPLettraMono-Light.woff2') format('woff2'),
+    url('./fonts/PPLettraMono-Light.woff') format('woff'),
+    url('./fonts/PPLettraMono-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'PP Lettra Mono';
+  src: url('./fonts/PPLettraMono-LightItalic.woff2') format('woff2'),
+    url('./fonts/PPLettraMono-LightItalic.woff') format('woff'),
+    url('./fonts/PPLettraMono-LightItalic.ttf') format('truetype');
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* PP Lettra Mono Regular */
+@font-face {
+  font-family: 'PP Lettra Mono';
+  src: url('./fonts/PPLettraMono-Regular.woff2') format('woff2'),
+    url('./fonts/PPLettraMono-Regular.woff') format('woff'),
+    url('./fonts/PPLettraMono-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'PP Lettra Mono';
+  src: url('./fonts/PPLettraMono-RegularItalic.woff2') format('woff2'),
+    url('./fonts/PPLettraMono-RegularItalic.woff') format('woff'),
+    url('./fonts/PPLettraMono-RegularItalic.ttf') format('truetype');
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* PP Lettra Mono Medium */
+@font-face {
+  font-family: 'PP Lettra Mono';
+  src: url('./fonts/PPLettraMono-Medium.woff2') format('woff2'),
+    url('./fonts/PPLettraMono-Medium.woff') format('woff'),
+    url('./fonts/PPLettraMono-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'PP Lettra Mono';
+  src: url('./fonts/PPLettraMono-MediumItalic.woff2') format('woff2'),
+    url('./fonts/PPLettraMono-MediumItalic.woff') format('woff'),
+    url('./fonts/PPLettraMono-MediumItalic.ttf') format('truetype');
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* PP Lettra Mono Semibold */
+@font-face {
+  font-family: 'PP Lettra Mono';
+  src: url('./fonts/PPLettraMono-Semibold.woff2') format('woff2'),
+    url('./fonts/PPLettraMono-Semibold.woff') format('woff'),
+    url('./fonts/PPLettraMono-Semibold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'PP Lettra Mono';
+  src: url('./fonts/PPLettraMono-SemiboldItalic.woff2') format('woff2'),
+    url('./fonts/PPLettraMono-SemiboldItalic.woff') format('woff'),
+    url('./fonts/PPLettraMono-SemiboldItalic.ttf') format('truetype');
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* PP Lettra Mono Bold */
+@font-face {
+  font-family: 'PP Lettra Mono';
+  src: url('./fonts/PPLettraMono-Bold.woff2') format('woff2'),
+    url('./fonts/PPLettraMono-Bold.woff') format('woff'),
+    url('./fonts/PPLettraMono-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'PP Lettra Mono';
+  src: url('./fonts/PPLettraMono-BoldItalic.woff2') format('woff2'),
+    url('./fonts/PPLettraMono-BoldItalic.woff') format('woff'),
+    url('./fonts/PPLettraMono-BoldItalic.ttf') format('truetype');
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* PP Lettra Mono Ultrabold */
+@font-face {
+  font-family: 'PP Lettra Mono';
+  src: url('./fonts/PPLettraMono-Ultrabold.woff2') format('woff2'),
+    url('./fonts/PPLettraMono-Ultrabold.woff') format('woff'),
+    url('./fonts/PPLettraMono-Ultrabold.ttf') format('truetype');
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'PP Lettra Mono';
+  src: url('./fonts/PPLettraMono-UltraboldItalic.woff2') format('woff2'),
+    url('./fonts/PPLettraMono-UltraboldItalic.woff') format('woff'),
+    url('./fonts/PPLettraMono-UltraboldItalic.ttf') format('truetype');
+  font-weight: 800;
+  font-style: italic;
+  font-display: swap;
+}
