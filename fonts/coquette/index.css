@@ -1,0 +1,65 @@
+/* Coquette Thin */
+@font-face {
+  font-family: 'Coquette';
+  src: url('./fonts/Coquette-Thin.woff2') format('woff2'),
+    url('./fonts/Coquette-Thin.woff') format('woff'),
+    url('./fonts/Coquette-Thin.ttf') format('truetype');
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Coquette Light */
+@font-face {
+  font-family: 'Coquette';
+  src: url('./fonts/Coquette-Light.woff2') format('woff2'),
+    url('./fonts/Coquette-Light.woff') format('woff'),
+    url('./fonts/Coquette-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Coquette Regular */
+@font-face {
+  font-family: 'Coquette';
+  src: url('./fonts/Coquette-Regular.woff2') format('woff2'),
+    url('./fonts/Coquette-Regular.woff') format('woff'),
+    url('./fonts/Coquette-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Coquette Bold */
+@font-face {
+  font-family: 'Coquette';
+  src: url('./fonts/Coquette-Bold.woff2') format('woff2'),
+    url('./fonts/Coquette-Bold.woff') format('woff'),
+    url('./fonts/Coquette-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Coquette ExtraBold */
+@font-face {
+  font-family: 'Coquette';
+  src: url('./fonts/Coquette-ExtraBold.woff2') format('woff2'),
+    url('./fonts/Coquette-ExtraBold.woff') format('woff'),
+    url('./fonts/Coquette-ExtraBold.ttf') format('truetype');
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Coquette Black */
+@font-face {
+  font-family: 'Coquette';
+  src: url('./fonts/Coquette-Black.woff2') format('woff2'),
+    url('./fonts/Coquette-Black.woff') format('woff'),
+    url('./fonts/Coquette-Black.ttf') format('truetype');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}

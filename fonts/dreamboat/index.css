@@ -1,0 +1,65 @@
+/* Dreamboat Light */
+@font-face {
+  font-family: 'Dreamboat';
+  src: url('./fonts/Dreamboat-Light.woff2') format('woff2'),
+    url('./fonts/Dreamboat-Light.woff') format('woff'),
+    url('./fonts/Dreamboat-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Dreamboat Regular */
+@font-face {
+  font-family: 'Dreamboat';
+  src: url('./fonts/Dreamboat-Regular.woff2') format('woff2'),
+    url('./fonts/Dreamboat-Regular.woff') format('woff'),
+    url('./fonts/Dreamboat-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Dreamboat DemiBold */
+@font-face {
+  font-family: 'Dreamboat';
+  src: url('./fonts/Dreamboat-DemiBold.woff2') format('woff2'),
+    url('./fonts/Dreamboat-DemiBold.woff') format('woff'),
+    url('./fonts/Dreamboat-DemiBold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Dreamboat Bold */
+@font-face {
+  font-family: 'Dreamboat';
+  src: url('./fonts/Dreamboat-Bold.woff2') format('woff2'),
+    url('./fonts/Dreamboat-Bold.woff') format('woff'),
+    url('./fonts/Dreamboat-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Dreamboat ExtraBold */
+@font-face {
+  font-family: 'Dreamboat';
+  src: url('./fonts/Dreamboat-ExtraBold.woff2') format('woff2'),
+    url('./fonts/Dreamboat-ExtraBold.woff') format('woff'),
+    url('./fonts/Dreamboat-ExtraBold.ttf') format('truetype');
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Dreamboat Black */
+@font-face {
+  font-family: 'Dreamboat';
+  src: url('./fonts/Dreamboat-Black.woff2') format('woff2'),
+    url('./fonts/Dreamboat-Black.woff') format('woff'),
+    url('./fonts/Dreamboat-Black.ttf') format('truetype');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
