@@ -1,0 +1,87 @@
+/* Archive Regular */
+@font-face {
+  font-family: 'Archive';
+  src: url('./fonts/Archive-Regular.woff2') format('woff2'),
+    url('./fonts/Archive-Regular.woff') format('woff'),
+    url('./fonts/Archive-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Archive Regular Italic */
+@font-face {
+  font-family: 'Archive';
+  src: url('./fonts/Archive-RegularItalic.woff2') format('woff2'),
+    url('./fonts/Archive-RegularItalic.woff') format('woff'),
+    url('./fonts/Archive-RegularItalic.ttf') format('truetype');
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* Archive SemiBold */
+@font-face {
+  font-family: 'Archive';
+  src: url('./fonts/Archive-SemiBold.woff2') format('woff2'),
+    url('./fonts/Archive-SemiBold.woff') format('woff'),
+    url('./fonts/Archive-SemiBold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Archive SemiBold Italic */
+@font-face {
+  font-family: 'Archive';
+  src: url('./fonts/Archive-SemiBoldItalic.woff2') format('woff2'),
+    url('./fonts/Archive-SemiBoldItalic.woff') format('woff'),
+    url('./fonts/Archive-SemiBoldItalic.ttf') format('truetype');
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* Archive Bold */
+@font-face {
+  font-family: 'Archive';
+  src: url('./fonts/Archive-Bold.woff2') format('woff2'),
+    url('./fonts/Archive-Bold.woff') format('woff'),
+    url('./fonts/Archive-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Archive Bold Italic */
+@font-face {
+  font-family: 'Archive';
+  src: url('./fonts/Archive-BoldItalic.woff2') format('woff2'),
+    url('./fonts/Archive-BoldItalic.woff') format('woff'),
+    url('./fonts/Archive-BoldItalic.ttf') format('truetype');
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* Archive ExtraBold */
+@font-face {
+  font-family: 'Archive';
+  src: url('./fonts/Archive-ExtraBold.woff2') format('woff2'),
+    url('./fonts/Archive-ExtraBold.woff') format('woff'),
+    url('./fonts/Archive-ExtraBold.ttf') format('truetype');
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Archive ExtraBold Italic */
+@font-face {
+  font-family: 'Archive';
+  src: url('./fonts/Archive-ExtraBoldItalic.woff2') format('woff2'),
+    url('./fonts/Archive-ExtraBoldItalic.woff') format('woff'),
+    url('./fonts/Archive-ExtraBoldItalic.ttf') format('truetype');
+  font-weight: 800;
+  font-style: italic;
+  font-display: swap;
+}

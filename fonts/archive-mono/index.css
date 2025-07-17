@@ -1,0 +1,10 @@
+/* Archive Mono Regular */
+@font-face {
+  font-family: 'Archive';
+  src: url('./fonts/ArchiveMono-Regular.woff2') format('woff2'),
+    url('./fonts/ArchiveMono-Regular.woff') format('woff'),
+    url('./fonts/ArchiveMono-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
