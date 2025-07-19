@@ -1,0 +1,167 @@
+/* Letter Gothic Recast Hair */
+@font-face {
+  font-family: 'Letter Gothic Recast';
+  src: url('./fonts/LetterGothicRecast-Hair.woff2') format('woff2'),
+    url('./fonts/LetterGothicRecast-Hair.woff') format('woff'),
+    url('./fonts/LetterGothicRecast-Hair.ttf') format('truetype');
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Letter Gothic Recast';
+  src: url('./fonts/LetterGothicRecast-HairItalic.woff2') format('woff2'),
+    url('./fonts/LetterGothicRecast-HairItalic.woff') format('woff'),
+    url('./fonts/LetterGothicRecast-HairItalic.ttf') format('truetype');
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* Thin */
+@font-face {
+  font-family: 'Letter Gothic Recast';
+  src: url('./fonts/LetterGothicRecast-Thin.woff2') format('woff2'),
+    url('./fonts/LetterGothicRecast-Thin.woff') format('woff'),
+    url('./fonts/LetterGothicRecast-Thin.ttf') format('truetype');
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Letter Gothic Recast';
+  src: url('./fonts/LetterGothicRecast-ThinItalic.woff2') format('woff2'),
+    url('./fonts/LetterGothicRecast-ThinItalic.woff') format('woff'),
+    url('./fonts/LetterGothicRecast-ThinItalic.ttf') format('truetype');
+  font-weight: 200;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* Light */
+@font-face {
+  font-family: 'Letter Gothic Recast';
+  src: url('./fonts/LetterGothicRecast-Light.woff2') format('woff2'),
+    url('./fonts/LetterGothicRecast-Light.woff') format('woff'),
+    url('./fonts/LetterGothicRecast-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Letter Gothic Recast';
+  src: url('./fonts/LetterGothicRecast-LightItalic.woff2') format('woff2'),
+    url('./fonts/LetterGothicRecast-LightItalic.woff') format('woff'),
+    url('./fonts/LetterGothicRecast-LightItalic.ttf') format('truetype');
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* Regular */
+@font-face {
+  font-family: 'Letter Gothic Recast';
+  src: url('./fonts/LetterGothicRecast-Regular.woff2') format('woff2'),
+    url('./fonts/LetterGothicRecast-Regular.woff') format('woff'),
+    url('./fonts/LetterGothicRecast-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Letter Gothic Recast';
+  src: url('./fonts/LetterGothicRecast-RegularItalic.woff2') format('woff2'),
+    url('./fonts/LetterGothicRecast-RegularItalic.woff') format('woff'),
+    url('./fonts/LetterGothicRecast-RegularItalic.ttf') format('truetype');
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* SemiBold */
+@font-face {
+  font-family: 'Letter Gothic Recast';
+  src: url('./fonts/LetterGothicRecast-SemiBold.woff2') format('woff2'),
+    url('./fonts/LetterGothicRecast-SemiBold.woff') format('woff'),
+    url('./fonts/LetterGothicRecast-SemiBold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Letter Gothic Recast';
+  src: url('./fonts/LetterGothicRecast-SemiBoldItalic.woff2') format('woff2'),
+    url('./fonts/LetterGothicRecast-SemiBoldItalic.woff') format('woff'),
+    url('./fonts/LetterGothicRecast-SemiBoldItalic.ttf') format('truetype');
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* Bold */
+@font-face {
+  font-family: 'Letter Gothic Recast';
+  src: url('./fonts/LetterGothicRecast-Bold.woff2') format('woff2'),
+    url('./fonts/LetterGothicRecast-Bold.woff') format('woff'),
+    url('./fonts/LetterGothicRecast-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Letter Gothic Recast';
+  src: url('./fonts/LetterGothicRecast-BoldItalic.woff2') format('woff2'),
+    url('./fonts/LetterGothicRecast-BoldItalic.woff') format('woff'),
+    url('./fonts/LetterGothicRecast-BoldItalic.ttf') format('truetype');
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* XBold */
+@font-face {
+  font-family: 'Letter Gothic Recast';
+  src: url('./fonts/LetterGothicRecast-XBold.woff2') format('woff2'),
+    url('./fonts/LetterGothicRecast-XBold.woff') format('woff'),
+    url('./fonts/LetterGothicRecast-XBold.ttf') format('truetype');
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Letter Gothic Recast';
+  src: url('./fonts/LetterGothicRecast-XBoldItalic.woff2') format('woff2'),
+    url('./fonts/LetterGothicRecast-XBoldItalic.woff') format('woff'),
+    url('./fonts/LetterGothicRecast-XBoldItalic.ttf') format('truetype');
+  font-weight: 800;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* Black */
+@font-face {
+  font-family: 'Letter Gothic Recast';
+  src: url('./fonts/LetterGothicRecast-Black.woff2') format('woff2'),
+    url('./fonts/LetterGothicRecast-Black.woff') format('woff'),
+    url('./fonts/LetterGothicRecast-Black.ttf') format('truetype');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Letter Gothic Recast';
+  src: url('./fonts/LetterGothicRecast-BlackItalic.woff2') format('woff2'),
+    url('./fonts/LetterGothicRecast-BlackItalic.woff') format('woff'),
+    url('./fonts/LetterGothicRecast-BlackItalic.ttf') format('truetype');
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}

@@ -1,0 +1,188 @@
+/* Courier Recast Hair */
+@font-face {
+  font-family: 'Courier Recast';
+  src: url('./fonts/CourierRecast-Hair.woff2') format('woff2'),
+    url('./fonts/CourierRecast-Hair.woff') format('woff'),
+    url('./fonts/CourierRecast-Hair.ttf') format('truetype');
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Courier Recast';
+  src: url('./fonts/CourierRecast-HairItalic.woff2') format('woff2'),
+    url('./fonts/CourierRecast-HairItalic.woff') format('woff'),
+    url('./fonts/CourierRecast-HairItalic.ttf') format('truetype');
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* Thin */
+@font-face {
+  font-family: 'Courier Recast';
+  src: url('./fonts/CourierRecast-Thin.woff2') format('woff2'),
+    url('./fonts/CourierRecast-Thin.woff') format('woff'),
+    url('./fonts/CourierRecast-Thin.ttf') format('truetype');
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Courier Recast';
+  src: url('./fonts/CourierRecast-ThinItalic.woff2') format('woff2'),
+    url('./fonts/CourierRecast-ThinItalic.woff') format('woff'),
+    url('./fonts/CourierRecast-ThinItalic.ttf') format('truetype');
+  font-weight: 200;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* Light */
+@font-face {
+  font-family: 'Courier Recast';
+  src: url('./fonts/CourierRecast-Light.woff2') format('woff2'),
+    url('./fonts/CourierRecast-Light.woff') format('woff'),
+    url('./fonts/CourierRecast-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Courier Recast';
+  src: url('./fonts/CourierRecast-LightItalic.woff2') format('woff2'),
+    url('./fonts/CourierRecast-LightItalic.woff') format('woff'),
+    url('./fonts/CourierRecast-LightItalic.ttf') format('truetype');
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* Regular */
+@font-face {
+  font-family: 'Courier Recast';
+  src: url('./fonts/CourierRecast-Regular.woff2') format('woff2'),
+    url('./fonts/CourierRecast-Regular.woff') format('woff'),
+    url('./fonts/CourierRecast-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Courier Recast';
+  src: url('./fonts/CourierRecast-RegularItalic.woff2') format('woff2'),
+    url('./fonts/CourierRecast-RegularItalic.woff') format('woff'),
+    url('./fonts/CourierRecast-RegularItalic.ttf') format('truetype');
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* Medium */
+@font-face {
+  font-family: 'Courier Recast';
+  src: url('./fonts/CourierRecast-Medium.woff2') format('woff2'),
+    url('./fonts/CourierRecast-Medium.woff') format('woff'),
+    url('./fonts/CourierRecast-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Courier Recast';
+  src: url('./fonts/CourierRecast-MediumItalic.woff2') format('woff2'),
+    url('./fonts/CourierRecast-MediumItalic.woff') format('woff'),
+    url('./fonts/CourierRecast-MediumItalic.ttf') format('truetype');
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* SemiBold */
+@font-face {
+  font-family: 'Courier Recast';
+  src: url('./fonts/CourierRecast-SemiBold.woff2') format('woff2'),
+    url('./fonts/CourierRecast-SemiBold.woff') format('woff'),
+    url('./fonts/CourierRecast-SemiBold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Courier Recast';
+  src: url('./fonts/CourierRecast-SemiBoldItalic.woff2') format('woff2'),
+    url('./fonts/CourierRecast-SemiBoldItalic.woff') format('woff'),
+    url('./fonts/CourierRecast-SemiBoldItalic.ttf') format('truetype');
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* Bold */
+@font-face {
+  font-family: 'Courier Recast';
+  src: url('./fonts/CourierRecast-Bold.woff2') format('woff2'),
+    url('./fonts/CourierRecast-Bold.woff') format('woff'),
+    url('./fonts/CourierRecast-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Courier Recast';
+  src: url('./fonts/CourierRecast-BoldItalic.woff2') format('woff2'),
+    url('./fonts/CourierRecast-BoldItalic.woff') format('woff'),
+    url('./fonts/CourierRecast-BoldItalic.ttf') format('truetype');
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* XBold */
+@font-face {
+  font-family: 'Courier Recast';
+  src: url('./fonts/CourierRecast-XBold.woff2') format('woff2'),
+    url('./fonts/CourierRecast-XBold.woff') format('woff'),
+    url('./fonts/CourierRecast-XBold.ttf') format('truetype');
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Courier Recast';
+  src: url('./fonts/CourierRecast-XBoldItalic.woff2') format('woff2'),
+    url('./fonts/CourierRecast-XBoldItalic.woff') format('woff'),
+    url('./fonts/CourierRecast-XBoldItalic.ttf') format('truetype');
+  font-weight: 800;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* Black */
+@font-face {
+  font-family: 'Courier Recast';
+  src: url('./fonts/CourierRecast-Black.woff2') format('woff2'),
+    url('./fonts/CourierRecast-Black.woff') format('woff'),
+    url('./fonts/CourierRecast-Black.ttf') format('truetype');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Courier Recast';
+  src: url('./fonts/CourierRecast-BlackItalic.woff2') format('woff2'),
+    url('./fonts/CourierRecast-BlackItalic.woff') format('woff'),
+    url('./fonts/CourierRecast-BlackItalic.ttf') format('truetype');
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
