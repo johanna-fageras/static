@@ -1,0 +1,65 @@
+/* Cera Mono - Thin */
+@font-face {
+  font-family: 'Cera Mono';
+  src: url('./fonts/CeraMono-Thin.woff2') format('woff2'),
+    url('./fonts/CeraMono-Thin.woff') format('woff'),
+    url('./fonts/CeraMono-Thin.ttf') format('truetype');
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Cera Mono - Light */
+@font-face {
+  font-family: 'Cera Mono';
+  src: url('./fonts/CeraMono-Light.woff2') format('woff2'),
+    url('./fonts/CeraMono-Light.woff') format('woff'),
+    url('./fonts/CeraMono-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Cera Mono - Regular */
+@font-face {
+  font-family: 'Cera Mono';
+  src: url('./fonts/CeraMono-Regular.woff2') format('woff2'),
+    url('./fonts/CeraMono-Regular.woff') format('woff'),
+    url('./fonts/CeraMono-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Cera Mono - Medium */
+@font-face {
+  font-family: 'Cera Mono';
+  src: url('./fonts/CeraMono-Medium.woff2') format('woff2'),
+    url('./fonts/CeraMono-Medium.woff') format('woff'),
+    url('./fonts/CeraMono-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Cera Mono - Bold */
+@font-face {
+  font-family: 'Cera Mono';
+  src: url('./fonts/CeraMono-Bold.woff2') format('woff2'),
+    url('./fonts/CeraMono-Bold.woff') format('woff'),
+    url('./fonts/CeraMono-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Cera Mono - Black */
+@font-face {
+  font-family: 'Cera Mono';
+  src: url('./fonts/CeraMono-Black.woff2') format('woff2'),
+    url('./fonts/CeraMono-Black.woff') format('woff'),
+    url('./fonts/CeraMono-Black.ttf') format('truetype');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
