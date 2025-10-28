@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'TAN Jambore';
+  src: url('fonts/TANJambore-Regular.woff2') format('woff2'),
+    url('fonts/TANJambore-Regular.woff') format('woff'),
+    url('fonts/TANJambore-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}

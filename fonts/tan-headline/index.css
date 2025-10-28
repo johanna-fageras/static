@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'TAN Headline';
+  src: url('fonts/TANHeadline-Regular.woff2') format('woff2'),
+    url('fonts/TANHeadline-Regular.woff') format('woff'),
+    url('fonts/TANHeadline-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
