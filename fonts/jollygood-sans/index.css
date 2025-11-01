@@ -1,0 +1,79 @@
+@font-face {
+    font-family: 'Jollygood Sans';
+    src: url('fonts/JollygoodSans-Light.woff2') format('woff2'),
+        url('fonts/JollygoodSans-Light.woff') format('woff'),
+        url('fonts/JollygoodSans-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Jollygood Sans';
+    src: url('fonts/JollygoodSans-LightItalic.woff2') format('woff2'),
+        url('fonts/JollygoodSans-LightItalic.woff') format('woff'),
+        url('fonts/JollygoodSans-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Jollygood Sans';
+    src: url('fonts/JollygoodSans-Regular.woff2') format('woff2'),
+        url('fonts/JollygoodSans-Regular.woff') format('woff'),
+        url('fonts/JollygoodSans-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Jollygood Sans';
+    src: url('fonts/JollygoodSans-RegularItalic.woff2') format('woff2'),
+        url('fonts/JollygoodSans-RegularItalic.woff') format('woff'),
+        url('fonts/JollygoodSans-RegularItalic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Jollygood Sans';
+    src: url('fonts/JollygoodSans-Bold.woff2') format('woff2'),
+        url('fonts/JollygoodSans-Bold.woff') format('woff'),
+        url('fonts/JollygoodSans-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Jollygood Sans';
+    src: url('fonts/JollygoodSans-BoldItalic.woff2') format('woff2'),
+        url('fonts/JollygoodSans-BoldItalic.woff') format('woff'),
+        url('fonts/JollygoodSans-BoldItalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Jollygood Sans';
+    src: url('fonts/JollygoodSans-Black.woff2') format('woff2'),
+        url('fonts/JollygoodSans-Black.woff') format('woff'),
+        url('fonts/JollygoodSans-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Jollygood Sans';
+    src: url('fonts/JollygoodSans-BlackItalic.woff2') format('woff2'),
+        url('fonts/JollygoodSans-BlackItalic.woff') format('woff'),
+        url('fonts/JollygoodSans-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
