@@ -1,0 +1,179 @@
+@font-face {
+    font-family: 'LG Recast';
+    src: url('fonts/LGRecast-Hair.woff2') format('woff2'),
+        url('fonts/LGRecast-Hair.woff') format('woff'),
+        url('fonts/LGRecast-Hair.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'LG Recast';
+    src: url('fonts/LGRecast-HairItalic.woff2') format('woff2'),
+        url('fonts/LGRecast-HairItalic.woff') format('woff'),
+        url('fonts/LGRecast-HairItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'LG Recast';
+    src: url('fonts/LGRecast-Thin.woff2') format('woff2'),
+        url('fonts/LGRecast-Thin.woff') format('woff'),
+        url('fonts/LGRecast-Thin.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'LG Recast';
+    src: url('fonts/LGRecast-ThinItalic.woff2') format('woff2'),
+        url('fonts/LGRecast-ThinItalic.woff') format('woff'),
+        url('fonts/LGRecast-ThinItalic.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'LG Recast';
+    src: url('fonts/LGRecast-Light.woff2') format('woff2'),
+        url('fonts/LGRecast-Light.woff') format('woff'),
+        url('fonts/LGRecast-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'LG Recast';
+    src: url('fonts/LGRecast-LightItalic.woff2') format('woff2'),
+        url('fonts/LGRecast-LightItalic.woff') format('woff'),
+        url('fonts/LGRecast-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'LG Recast';
+    src: url('fonts/LGRecast-Regular.woff2') format('woff2'),
+        url('fonts/LGRecast-Regular.woff') format('woff'),
+        url('fonts/LGRecast-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'LG Recast';
+    src: url('fonts/LGRecast-RegularItalic.woff2') format('woff2'),
+        url('fonts/LGRecast-RegularItalic.woff') format('woff'),
+        url('fonts/LGRecast-RegularItalic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'LG Recast';
+    src: url('fonts/LGRecast-Medium.woff2') format('woff2'),
+        url('fonts/LGRecast-Medium.woff') format('woff'),
+        url('fonts/LGRecast-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'LG Recast';
+    src: url('fonts/LGRecast-MediumItalic.woff2') format('woff2'),
+        url('fonts/LGRecast-MediumItalic.woff') format('woff'),
+        url('fonts/LGRecast-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'LG Recast';
+    src: url('fonts/LGRecast-SemiBold.woff2') format('woff2'),
+        url('fonts/LGRecast-SemiBold.woff') format('woff'),
+        url('fonts/LGRecast-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'LG Recast';
+    src: url('fonts/LGRecast-SemiBoldItalic.woff2') format('woff2'),
+        url('fonts/LGRecast-SemiBoldItalic.woff') format('woff'),
+        url('fonts/LGRecast-SemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'LG Recast';
+    src: url('fonts/LGRecast-Bold.woff2') format('woff2'),
+        url('fonts/LGRecast-Bold.woff') format('woff'),
+        url('fonts/LGRecast-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'LG Recast';
+    src: url('fonts/LGRecast-BoldItalic.woff2') format('woff2'),
+        url('fonts/LGRecast-BoldItalic.woff') format('woff'),
+        url('fonts/LGRecast-BoldItalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'LG Recast';
+    src: url('fonts/LGRecast-XBold.woff2') format('woff2'),
+        url('fonts/LGRecast-XBold.woff') format('woff'),
+        url('fonts/LGRecast-XBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'LG Recast';
+    src: url('fonts/LGRecast-XBoldItalic.woff2') format('woff2'),
+        url('fonts/LGRecast-XBoldItalic.woff') format('woff'),
+        url('fonts/LGRecast-XBoldItalic.ttf') format('truetype');
+    font-weight: 800;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'LG Recast';
+    src: url('fonts/LGRecast-Black.woff2') format('woff2'),
+        url('fonts/LGRecast-Black.woff') format('woff'),
+        url('fonts/LGRecast-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'LG Recast';
+    src: url('fonts/LGRecast-BlackItalic.woff2') format('woff2'),
+        url('fonts/LGRecast-BlackItalic.woff') format('woff'),
+        url('fonts/LGRecast-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
