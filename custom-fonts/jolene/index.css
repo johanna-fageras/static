@@ -1,0 +1,72 @@
+/* =========================================
+   JOLENE — Custom Font Family
+   Weights: 100, 300, 400, 500, 700, 900
+   Formats: WOFF2, WOFF, TTF
+   Path: https://cdn.jsdelivr.net/gh/johanna-fageras/static/custom-fonts/jolene/fonts/
+   ========================================= */
+
+@font-face {
+  font-family: "Jolene";
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+  src:
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static/custom-fonts/jolene/fonts/Jolene-Thin.woff2") format("woff2"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static/custom-fonts/jolene/fonts/Jolene-Thin.woff") format("woff"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static/custom-fonts/jolene/fonts/Jolene-Thin.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Jolene";
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+  src:
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static/custom-fonts/jolene/fonts/Jolene-Light.woff2") format("woff2"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static/custom-fonts/jolene/fonts/Jolene-Light.woff") format("woff"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static/custom-fonts/jolene/fonts/Jolene-Light.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Jolene";
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src:
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static/custom-fonts/jolene/fonts/Jolene-Regular.woff2") format("woff2"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static/custom-fonts/jolene/fonts/Jolene-Regular.woff") format("woff"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static/custom-fonts/jolene/fonts/Jolene-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Jolene";
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  src:
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static/custom-fonts/jolene/fonts/Jolene-Medium.woff2") format("woff2"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static/custom-fonts/jolene/fonts/Jolene-Medium.woff") format("woff"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static/custom-fonts/jolene/fonts/Jolene-Medium.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Jolene";
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src:
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static/custom-fonts/jolene/fonts/Jolene-Bold.woff2") format("woff2"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static/custom-fonts/jolene/fonts/Jolene-Bold.woff") format("woff"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static/custom-fonts/jolene/fonts/Jolene-Bold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Jolene";
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+  src:
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static/custom-fonts/jolene/fonts/Jolene-Black.woff2") format("woff2"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static/custom-fonts/jolene/fonts/Jolene-Black.woff") format("woff"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static/custom-fonts/jolene/fonts/Jolene-Black.ttf") format("truetype");
+}

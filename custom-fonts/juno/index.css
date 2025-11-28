@@ -1,0 +1,105 @@
+/* =========================================
+   JUNO — Custom Font Family
+   Weights: 100–900
+   Formats: WOFF2, WOFF, TTF
+   Path: https://cdn.jsdelivr.net/gh/johanna-fageras/static/custom-fonts/juno/fonts/
+   ========================================= */
+
+@font-face {
+  font-family: "Juno";
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+  src:
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static/custom-fonts/juno/fonts/Juno-Thin.woff2") format("woff2"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static/custom-fonts/juno/fonts/Juno-Thin.woff") format("woff"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static/custom-fonts/juno/fonts/Juno-Thin.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Juno";
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+  src:
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static/custom-fonts/juno/fonts/Juno-ExtraLight.woff2") format("woff2"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static/custom-fonts/juno/fonts/Juno-ExtraLight.woff") format("woff"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static/custom-fonts/juno/fonts/Juno-ExtraLight.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Juno";
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+  src:
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static/custom-fonts/juno/fonts/Juno-Light.woff2") format("woff2"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static/custom-fonts/juno/fonts/Juno-Light.woff") format("woff"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static/custom-fonts/juno/fonts/Juno-Light.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Juno";
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src:
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static/custom-fonts/juno/fonts/Juno-Regular.woff2") format("woff2"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static/custom-fonts/juno/fonts/Juno-Regular.woff") format("woff"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static/custom-fonts/juno/fonts/Juno-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Juno";
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  src:
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static/custom-fonts/juno/fonts/Juno-Medium.woff2") format("woff2"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static/custom-fonts/juno/fonts/Juno-Medium.woff") format("woff"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static/custom-fonts/juno/fonts/Juno-Medium.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Juno";
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+  src:
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static/custom-fonts/juno/fonts/Juno-SemiBold.woff2") format("woff2"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static/custom-fonts/juno/fonts/Juno-SemiBold.woff") format("woff"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static/custom-fonts/juno/fonts/Juno-SemiBold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Juno";
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src:
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static/custom-fonts/juno/fonts/Juno-Bold.woff2") format("woff2"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static/custom-fonts/juno/fonts/Juno-Bold.woff") format("woff"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static/custom-fonts/juno/fonts/Juno-Bold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Juno";
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+  src:
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static/custom-fonts/juno/fonts/Juno-ExtraBold.woff2") format("woff2"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static/custom-fonts/juno/fonts/Juno-ExtraBold.woff") format("woff"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static/custom-fonts/juno/fonts/Juno-ExtraBold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Juno";
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+  src:
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static/custom-fonts/juno/fonts/Juno-Black.woff2") format("woff2"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static/custom-fonts/juno/fonts/Juno-Black.woff") format("woff"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static/custom-fonts/juno/fonts/Juno-Black.ttf") format("truetype");
+}

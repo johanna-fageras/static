@@ -1,0 +1,72 @@
+/* =========================================
+   JULIETTE — Custom Font Family
+   Weights: 400, 500, 600, 700, 800, 900
+   Formats: WOFF2, WOFF, TTF
+   Path: https://cdn.jsdelivr.net/gh/johanna-fageras/static/custom-fonts/juliette/fonts/
+   ========================================= */
+
+@font-face {
+  font-family: "Juliette";
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src:
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static/custom-fonts/juliette/fonts/Juliette-Regular.woff2") format("woff2"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static/custom-fonts/juliette/fonts/Juliette-Regular.woff") format("woff"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static/custom-fonts/juliette/fonts/Juliette-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Juliette";
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  src:
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static/custom-fonts/juliette/fonts/Juliette-Medium.woff2") format("woff2"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static/custom-fonts/juliette/fonts/Juliette-Medium.woff") format("woff"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static/custom-fonts/juliette/fonts/Juliette-Medium.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Juliette";
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+  src:
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static/custom-fonts/juliette/fonts/Juliette-SemiBold.woff2") format("woff2"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static/custom-fonts/juliette/fonts/Juliette-SemiBold.woff") format("woff"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static/custom-fonts/juliette/fonts/Juliette-SemiBold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Juliette";
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src:
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static/custom-fonts/juliette/fonts/Juliette-Bold.woff2") format("woff2"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static/custom-fonts/juliette/fonts/Juliette-Bold.woff") format("woff"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static/custom-fonts/juliette/fonts/Juliette-Bold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Juliette";
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+  src:
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static/custom-fonts/juliette/fonts/Juliette-ExtraBold.woff2") format("woff2"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static/custom-fonts/juliette/fonts/Juliette-ExtraBold.woff") format("woff"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static/custom-fonts/juliette/fonts/Juliette-ExtraBold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Juliette";
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+  src:
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static/custom-fonts/juliette/fonts/Juliette-Black.woff2") format("woff2"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static/custom-fonts/juliette/fonts/Juliette-Black.woff") format("woff"),
+    url("https://cdn.jsdelivr.net/gh/johanna-fageras/static/custom-fonts/juliette/fonts/Juliette-Black.ttf") format("truetype");
+}
