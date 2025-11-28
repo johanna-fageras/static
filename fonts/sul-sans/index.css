@@ -1,0 +1,99 @@
+@font-face {
+    font-family: 'Sul Sans';
+    src: url('fonts/SulSans-Light.woff2') format('woff2'),
+        url('fonts/SulSans-Light.woff') format('woff'),
+        url('fonts/SulSans-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sul Sans';
+    src: url('fonts/SulSans-LightItalic.woff2') format('woff2'),
+        url('fonts/SulSans-LightItalic.woff') format('woff'),
+        url('fonts/SulSans-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sul Sans';
+    src: url('fonts/SulSans-Regular.woff2') format('woff2'),
+        url('fonts/SulSans-Regular.woff') format('woff'),
+        url('fonts/SulSans-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sul Sans';
+    src: url('fonts/SulSans-RegularItalic.woff2') format('woff2'),
+        url('fonts/SulSans-RegularItalic.woff') format('woff'),
+        url('fonts/SulSans-RegularItalic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sul Sans';
+    src: url('fonts/SulSans-Medium.woff2') format('woff2'),
+        url('fonts/SulSans-Medium.woff') format('woff'),
+        url('fonts/SulSans-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sul Sans';
+    src: url('fonts/SulSans-MediumItalic.woff2') format('woff2'),
+        url('fonts/SulSans-MediumItalic.woff') format('woff'),
+        url('fonts/SulSans-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sul Sans';
+    src: url('fonts/SulSans-Bold.woff2') format('woff2'),
+        url('fonts/SulSans-Bold.woff') format('woff'),
+        url('fonts/SulSans-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sul Sans';
+    src: url('fonts/SulSans-BoldItalic.woff2') format('woff2'),
+        url('fonts/SulSans-BoldItalic.woff') format('woff'),
+        url('fonts/SulSans-BoldItalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sul Sans';
+    src: url('fonts/SulSans-Black.woff2') format('woff2'),
+        url('fonts/SulSans-Black.woff') format('woff'),
+        url('fonts/SulSans-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sul Sans';
+    src: url('fonts/SulSans-BlackItalic.woff2') format('woff2'),
+        url('fonts/SulSans-BlackItalic.woff') format('woff'),
+        url('fonts/SulSans-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
