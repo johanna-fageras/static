@@ -1,0 +1,99 @@
+@font-face {
+    font-family: 'Epicene Text';
+    src: url('fonts/EpiceneText-Light.woff2') format('woff2'),
+        url('fonts/EpiceneText-Light.woff') format('woff'),
+        url('fonts/EpiceneText-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Epicene Text';
+    src: url('fonts/EpiceneText-LightItalic.woff2') format('woff2'),
+        url('fonts/EpiceneText-LightItalic.woff') format('woff'),
+        url('fonts/EpiceneText-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Epicene Text';
+    src: url('fonts/EpiceneText-Regular.woff2') format('woff2'),
+        url('fonts/EpiceneText-Regular.woff') format('woff'),
+        url('fonts/EpiceneText-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Epicene Text';
+    src: url('fonts/EpiceneText-RegularItalic.woff2') format('woff2'),
+        url('fonts/EpiceneText-RegularItalic.woff') format('woff'),
+        url('fonts/EpiceneText-RegularItalic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Epicene Text Med';
+    src: url('fonts/EpiceneText-Medium.woff2') format('woff2'),
+        url('fonts/EpiceneText-Medium.woff') format('woff'),
+        url('fonts/EpiceneText-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Epicene Text Med';
+    src: url('fonts/EpiceneText-MediumItalic.woff2') format('woff2'),
+        url('fonts/EpiceneText-MediumItalic.woff') format('woff'),
+        url('fonts/EpiceneText-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Epicene Text';
+    src: url('fonts/EpiceneText-Bold.woff2') format('woff2'),
+        url('fonts/EpiceneText-Bold.woff') format('woff'),
+        url('fonts/EpiceneText-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Epicene Text';
+    src: url('fonts/EpiceneText-BoldItalic.woff2') format('woff2'),
+        url('fonts/EpiceneText-BoldItalic.woff') format('woff'),
+        url('fonts/EpiceneText-BoldItalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Epicene Text';
+    src: url('fonts/EpiceneText-Black.woff2') format('woff2'),
+        url('fonts/EpiceneText-Black.woff') format('woff'),
+        url('fonts/EpiceneText-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Epicene Text';
+    src: url('fonts/EpiceneText-BlackItalic.woff2') format('woff2'),
+        url('fonts/EpiceneText-BlackItalic.woff') format('woff'),
+        url('fonts/EpiceneText-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
