@@ -1,0 +1,179 @@
+@font-face {
+  font-family: 'CC Hero Sandwich Pro';
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+  src: url('fonts/CCHeroSandwichPro-Thin.woff2') format('woff2'),
+    url('fonts/CCHeroSandwichPro-Thin.woff') format('woff'),
+    url('fonts/CCHeroSandwichPro-Thin.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'CC Hero Sandwich Pro';
+  font-style: italic;
+  font-weight: 100;
+  font-display: swap;
+  src: url('fonts/CCHeroSandwichPro-ThinItalic.woff2') format('woff2'),
+    url('fonts/CCHeroSandwichPro-ThinItalic.woff') format('woff'),
+    url('fonts/CCHeroSandwichPro-ThinItalic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'CC Hero Sandwich Pro';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url('fonts/CCHeroSandwichPro-ExtraLight.woff2') format('woff2'),
+    url('fonts/CCHeroSandwichPro-ExtraLight.woff') format('woff'),
+    url('fonts/CCHeroSandwichPro-ExtraLight.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'CC Hero Sandwich Pro';
+  font-style: italic;
+  font-weight: 200;
+  font-display: swap;
+  src: url('fonts/CCHeroSandwichPro-ExtraLightItalic.woff2') format('woff2'),
+    url('fonts/CCHeroSandwichPro-ExtraLightItalic.woff') format('woff'),
+    url('fonts/CCHeroSandwichPro-ExtraLightItalic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'CC Hero Sandwich Pro';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url('fonts/CCHeroSandwichPro-Light.woff2') format('woff2'),
+    url('fonts/CCHeroSandwichPro-Light.woff') format('woff'),
+    url('fonts/CCHeroSandwichPro-Light.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'CC Hero Sandwich Pro';
+  font-style: italic;
+  font-weight: 300;
+  font-display: swap;
+  src: url('fonts/CCHeroSandwichPro-LightItalic.woff2') format('woff2'),
+    url('fonts/CCHeroSandwichPro-LightItalic.woff') format('woff'),
+    url('fonts/CCHeroSandwichPro-LightItalic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'CC Hero Sandwich Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('fonts/CCHeroSandwichPro-Regular.woff2') format('woff2'),
+    url('fonts/CCHeroSandwichPro-Regular.woff') format('woff'),
+    url('fonts/CCHeroSandwichPro-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'CC Hero Sandwich Pro';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url('fonts/CCHeroSandwichPro-RegularItalic.woff2') format('woff2'),
+    url('fonts/CCHeroSandwichPro-RegularItalic.woff') format('woff'),
+    url('fonts/CCHeroSandwichPro-RegularItalic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'CC Hero Sandwich Pro';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url('fonts/CCHeroSandwichPro-Medium.woff2') format('woff2'),
+    url('fonts/CCHeroSandwichPro-Medium.woff') format('woff'),
+    url('fonts/CCHeroSandwichPro-Medium.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'CC Hero Sandwich Pro';
+  font-style: italic;
+  font-weight: 500;
+  font-display: swap;
+  src: url('fonts/CCHeroSandwichPro-MediumItalic.woff2') format('woff2'),
+    url('fonts/CCHeroSandwichPro-MediumItalic.woff') format('woff'),
+    url('fonts/CCHeroSandwichPro-MediumItalic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'CC Hero Sandwich Pro';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url('fonts/CCHeroSandwichPro-SemiBold.woff2') format('woff2'),
+    url('fonts/CCHeroSandwichPro-SemiBold.woff') format('woff'),
+    url('fonts/CCHeroSandwichPro-SemiBold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'CC Hero Sandwich Pro';
+  font-style: italic;
+  font-weight: 600;
+  font-display: swap;
+  src: url('fonts/CCHeroSandwichPro-SemiBoldItalic.woff2') format('woff2'),
+    url('fonts/CCHeroSandwichPro-SemiBoldItalic.woff') format('woff'),
+    url('fonts/CCHeroSandwichPro-SemiBoldItalic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'CC Hero Sandwich Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('fonts/CCHeroSandwichPro-Bold.woff2') format('woff2'),
+    url('fonts/CCHeroSandwichPro-Bold.woff') format('woff'),
+    url('fonts/CCHeroSandwichPro-Bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'CC Hero Sandwich Pro';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url('fonts/CCHeroSandwichPro-BoldItalic.woff2') format('woff2'),
+    url('fonts/CCHeroSandwichPro-BoldItalic.woff') format('woff'),
+    url('fonts/CCHeroSandwichPro-BoldItalic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'CC Hero Sandwich Pro';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url('fonts/CCHeroSandwichPro-ExtraBold.woff2') format('woff2'),
+    url('fonts/CCHeroSandwichPro-ExtraBold.woff') format('woff'),
+    url('fonts/CCHeroSandwichPro-ExtraBold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'CC Hero Sandwich Pro';
+  font-style: italic;
+  font-weight: 800;
+  font-display: swap;
+  src: url('fonts/CCHeroSandwichPro-ExtraBoldItalic.woff2') format('woff2'),
+    url('fonts/CCHeroSandwichPro-ExtraBoldItalic.woff') format('woff'),
+    url('fonts/CCHeroSandwichPro-ExtraBoldItalic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'CC Hero Sandwich Pro';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url('fonts/CCHeroSandwichPro-Heavy.woff2') format('woff2'),
+    url('fonts/CCHeroSandwichPro-Heavy.woff') format('woff'),
+    url('fonts/CCHeroSandwichPro-Heavy.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'CC Hero Sandwich Pro';
+  font-style: italic;
+  font-weight: 900;
+  font-display: swap;
+  src: url('fonts/CCHeroSandwichPro-HeavyItalic.woff2') format('woff2'),
+    url('fonts/CCHeroSandwichPro-HeavyItalic.woff') format('woff'),
+    url('fonts/CCHeroSandwichPro-HeavyItalic.ttf') format('truetype');
+}
