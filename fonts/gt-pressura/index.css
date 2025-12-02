@@ -1,0 +1,119 @@
+@font-face {
+    font-family: 'GT Pressura';
+    src: url('fonts/GTPressura-Thin.woff2') format('woff2'),
+        url('fonts/GTPressura-Thin.woff') format('woff'),
+        url('fonts/GTPressura-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'GT Pressura';
+    src: url('fonts/GTPressura-Thinitalic.woff2') format('woff2'),
+        url('fonts/GTPressura-Thinitalic.woff') format('woff'),
+        url('fonts/GTPressura-Thinitalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'GT Pressura';
+    src: url('fonts/GTPressura-Light.woff2') format('woff2'),
+        url('fonts/GTPressura-Light.woff') format('woff'),
+        url('fonts/GTPressura-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'GT Pressura';
+    src: url('fonts/GTPressura-Lightitalic.woff2') format('woff2'),
+        url('fonts/GTPressura-Lightitalic.woff') format('woff'),
+        url('fonts/GTPressura-Lightitalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'GT Pressura';
+    src: url('fonts/GTPressura-Regular.woff2') format('woff2'),
+        url('fonts/GTPressura-Regular.woff') format('woff'),
+        url('fonts/GTPressura-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'GT Pressura';
+    src: url('fonts/GTPressura-Regularitalic.woff2') format('woff2'),
+        url('fonts/GTPressura-Regularitalic.woff') format('woff'),
+        url('fonts/GTPressura-Regularitalic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'GT Pressura';
+    src: url('fonts/GTPressura-Medium.woff2') format('woff2'),
+        url('fonts/GTPressura-Medium.woff') format('woff'),
+        url('fonts/GTPressura-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'GT Pressura';
+    src: url('fonts/GTPressura-Mediumitalic.woff2') format('woff2'),
+        url('fonts/GTPressura-Mediumitalic.woff') format('woff'),
+        url('fonts/GTPressura-Mediumitalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'GT Pressura';
+    src: url('fonts/GTPressura-Bold.woff2') format('woff2'),
+        url('fonts/GTPressura-Bold.woff') format('woff'),
+        url('fonts/GTPressura-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'GT Pressura';
+    src: url('fonts/GTPressura-Bolditalic.woff2') format('woff2'),
+        url('fonts/GTPressura-Bolditalic.woff') format('woff'),
+        url('fonts/GTPressura-Bolditalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'GT Pressura';
+    src: url('fonts/GTPressura-Black.woff2') format('woff2'),
+        url('fonts/GTPressura-Black.woff') format('woff'),
+        url('fonts/GTPressura-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'GT Pressura';
+    src: url('fonts/GTPressura-Blackitalic.woff2') format('woff2'),
+        url('fonts/GTPressura-Blackitalic.woff') format('woff'),
+        url('fonts/GTPressura-Blackitalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
